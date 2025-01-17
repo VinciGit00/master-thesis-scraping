@@ -1,8 +1,9 @@
 import requests
 from bs4 import BeautifulSoup
 import json
+import time
 
-def main():
+def scrape_nature():
     url = "https://www.nature.com"
     response = requests.get(url)
     soup = BeautifulSoup(response.content, 'html.parser')
@@ -24,8 +25,24 @@ def main():
                 'authors': authors,
                 'date': date
             })
+    
+    return articles
 
-    print(json.dumps(articles, indent=2))
+def main():
+    total_time = 0
+    iterations = 100
+    
+    for i in range(iterations):
+        start_time = time.time()
+        articles = scrape_nature()
+        end_time = time.time()
+        total_time += (end_time - start_time)
+        
+        if i == 0:  # Print results only for the first iteration
+            print(json.dumps(articles, indent=2))
+    
+    avg_time = total_time / iterations
+    print(f"\nAverage execution time over {iterations} iterations: {avg_time:.2f} seconds")
 
 if __name__ == "__main__":
     main()
