@@ -551,7 +551,7 @@ Starting from a single RNN neuron it is possible to easily create one or more la
 
 \begin{figure} [h]
     \centering
-    \includegraphics[width=\textwidth,height=\textheight,keepaspectratio]{D) IMAGES/Theory_and_methods/unnamed-7.png}
+    \includegraphics[width=\textwidth,height=\textheight,keepaspectratio]{Assets/Theory_and_methods/unnamed-7.png}
     \caption{RNN architecture with multiple neurons.}
     \label{fig:RNN_multi_layer}
 \end{figure}
@@ -1304,13 +1304,6 @@ The data in Table~\ref{tab:most-visited-websites} reveals several interesting tr
 
 The high frequency of these sources underscores the widespread reliance on ScrapeGraphAI for data extraction across varied industries and content types. This analysis also illustrates the dynamic nature of web scraping, with sources ranging from static content repositories to dynamically updated platforms.
 
-\begin{figure}[H]
-    \centering
-    \includegraphics[width=\textwidth]{Screenshot_2025-01-24_alle_15.21.13.png}
-    \caption{Geographic distribution of web scraping activity frequencies as of January 24, 2025. The color scale represents the intensity of scraping activity, with darker purple indicating lower activity and bright yellow representing the highest frequency.}
-    \label{fig:geographic-distribution}
-\end{figure}
-
 \paragraph{Image Commentary}
 Figure~\ref{fig:geographic-distribution} provides a visual representation of web scraping activity across various regions. Key observations include:
 \begin{itemize}
@@ -1683,7 +1676,7 @@ At the end of Q3 2024, the ScrapegraphAI  library was named the second fastest-g
 
 \begin{figure}[H]
     \centering
-    \includegraphics[width=0.95\linewidth]{growing_companies.png}
+    \includegraphics[width=0.95\linewidth]{Assets/growing_companies.png}
     \caption{Top trending open-source startups open table on 2024 Q3, source: runacap}
     \label{fig:enter-label}
 
@@ -1722,120 +1715,3 @@ Integrating ScrapegraphAI  into an agent-based environment enhances the ability 
 Retrieval Augmented Generation (RAG) is a technique used to enhance the performance of large language models (LLMs) by incorporating external information retrieval during text generation. Traditional language models generate responses based on pre-existing knowledge within their parameters, which can lead to errors or fabricated content (hallucinations) when faced with information beyond their training data. RAG addresses this by allowing the model to retrieve relevant external documents dynamically, thereby providing a foundation of accurate information for more reliable output \cite{jiang2023}.
 
 In a typical RAG setup, the model first retrieves a set of documents relevant to the user’s query and then generates a response conditioned on the retrieved information. This single-step retrieval, though effective for short-form generation tasks, is limited when generating long, knowledge-intensive responses where continuous access to new information is required. To overcome this, Jiang et al. (2023) propose an iterative approach in RAG called Forward-Looking Active Retrieval (FLARE), where the model retrieves information at multiple points throughout the generation process. By anticipating the content needed for upcoming sentences, FLARE actively decides when and what to retrieve, resulting in higher accuracy for complex generation tasks such as long-form question answering and open-domain summarization \cite{jiang2023}.
-
-
-\listoffigures
-\listoftables
-
-
-\bibliographystyle{siam}
-
-\begin{thebibliography}{1}
-\bibitem{1} Glez-Peña, Daniel, et al. "Web scraping technologies in an API world." Briefings in Bioinformatics 15.5 (2014): 788-797.
-\bibitem{hirsch2014} 
-Dennis D. Hirsch, ``The Glass House Effect: Big Data, the New Oil, and the Power of Analogy,'' \textit{Maine Law Review}, vol. 66, no. 2, 2014, pp. 373-396.
-
-\bibitem{decker1997}
-K. Decker, K. Sycara, and M. Williamson. Middle-agents for the Internet. In *Proceedings of the Fifteenth International Joint Conference on Artificial Intelligence (IJCAI)*, 1997.
-
-\bibitem{abar2017}
-    S. Abar, G. K. Theodoropoulos, P. Lemarinier, and G. M. P. O’Hare, ``Agent Based Modelling and Simulation tools: A review of the state-of-art software,'' \emph{Computer Science Review}, vol. 24, pp. 13–33, 2017.
-
-\bibitem{azad2020} Azad, Babak Amin, et al. "Web Runner 2049: Evaluating Third-Party Anti-bot Services." \textit{DIMVA 2020, Lecture Notes in Computer Science}, vol. 12223, 2020, pp. 135–159. Springer, https://doi.org/10.1007/978-3-030-52683-2\_7.
-
-\bibitem{schelen1998qosagents}
-O. Schelén, \emph{Quality of Service Agents in the Internet}, Doctoral Thesis, Department of Computer Science and Electrical Engineering, Luleå University of Technology, 1998.
-
-\bibitem{darmawan2022evaluating}
-I. Darmawan, M. Maulana, R. Gunawan, and N. Widiyasono, ``Evaluating Web Scraping Performance Using XPath, CSS Selector, Regular Expression, and HTML DOM With Multiprocessing,'' \emph{International Journal on Informatics Visualization}, vol. 6, no. 4, pp. 904-910, 2022.
-
-\bibitem{David2008}
-P.~A. David and J.~S. Shapiro, ``Community-based production of open-source software: What do we know about the developers who participate?'' \emph{Information Economics and Policy}, vol.~20, no.~3, pp. 364–398, 2008.
-
-  \bibitem{ahluwalia2023}
-    A. Ahluwalia and S. Wani, ``Leveraging Large Language Models for Web Scraping,'' \emph{arXiv preprint arXiv:2406.08246v1}, 2023.
-\bibitem{vaswani2017attention}
-A. Vaswani, N. Shazeer, N. Parmar, J. Uszkoreit, L. Jones, A. N. Gomez, Ł. Kaiser, and I. Polosukhin, ``Attention is All You Need,'' \textit{Advances in Neural Information Processing Systems (NeurIPS)}, pp. 5998--6008, 2017.
- \bibitem{application_llms} Hadi, M. U., Tashi, Q. A., Shah, A., et al., "Large Language Models: A Comprehensive Survey of its Applications, Challenges, Limitations, and Future Prospects," TechRxiv, 2024
-
-\bibitem{rasnayaka2024}
-Rasnayaka, S., Wang, G., Shariffdeen, R., \& Iyer, G. N. (2024). An Empirical Study on Usage and Perceptions of LLMs in a Software Engineering Project. \textit{Proceedings of the 2024 International Workshop on Large Language Models for Code (LLM4Code ’24)}, April 20, Lisbon, Portugal. ACM, New York, NY, USA \url{https://doi.org/10.1145/3643795.3648379}.
-\bibitem{limitations_llms} Hadi, M. U., Tashi, Q. A., Shah, A., et al., "Large Language Models: A Comprehensive Survey of its Applications, Challenges, Limitations, and Future Prospects," TechRxiv, 2024.
-
-\bibitem{janssen2005} Janssen, M. A. (2005). Agent-Based Modelling. \textit{Internet Encyclopaedia of Ecological Economics}, Arizona State University.
-
-\bibitem{janssen2005} Janssen, M. A., \& Ostrom, E. (2005). Empirically based, agent-based models. Ecology and Society, 10(2), 37.
-
-
-
-\bibitem{ginart2024} Ginart, A. A., Kodali, N., Lee, J., Xiong, C., Savarese, S., \& Emmons, J. (2024). Asynchronous Tool Usage for Real-Time Agents. Salesforce AI Research.
-
-
-
-\bibitem{ginart2024} Ginart, A., et al. (2024). Asynchronous Agents in Real-Time AI Systems. arXiv preprint arXiv:2312.04511.
-
-\bibitem{chan2025}
-A. Chan, K. Wei, S. Huang, N. Rajkumar, E. Perrier, S. Lazar, G. K. Hadfield, and M. Anderljung.
-\newblock Infrastructure for AI Agents.
-\newblock \emph{arXiv preprint arXiv:2501.10114}, 2025.
-
-\bibitem{bigdatawire2024}
-Big Data Wire. (2024, March 6). \textit{GenAI doesn’t need bigger LLMs, it needs better data}. \url{https://www.bigdatawire.com/2024/03/06/genai-doesnt-need-bigger-llms-it-needs-better-data/}
-
-\bibitem{privacyos2024}
-PrivacyOS. (2024). \textit{The 95\% of sanctions is triggered by an offense on personal data and consents}. \url{https://www.privacyos.com/en/the-95-of-sanctions-is-triggered-by-an-offense-on-personal-data-and-consents/}
-
-\bibitem{webscraper2024}
-WebScraper. A brief history of web scraping. Retrieved November 5, 2024, from \url{https://webscraper.io/blog/brief-history-of-web-scraping}
-
-\bibitem{humby2006}
-Humby, C. (2006). *Data is the new oil. It's valuable, but if unrefined it cannot really be used. It has to be changed into gas, and gasoline is used to power a car.*
-
-\bibitem{McCulloch1943}
-Warren S. McCulloch and Walter Pitts, 
-"A logical calculus of the ideas immanent in nervous activity," 
-\textit{The Bulletin of Mathematical Biophysics}, 
-vol. 5, no. 4, pp. 115--133, Dec. 1943. 
-DOI: \href{https://doi.org/10.1007/bf02478259}{10.1007/bf02478259}.
-
-\bibitem{glez-pena2013} 
-Daniel Glez-Peña, Ana Lourenço, Hugo López-Fernández, Miguel Reboiro-Jato, and Florentino Fdez-Riverola. 
-\textit{Web scraping technologies in an API world}. Briefings in Bioinformatics, Vol. 15, No. 5, 788-797, 2013.
-
-\bibitem{citeseerx2024}
-CiteSeerX. (2024). \textit{The Growing Value of Private Data}. \url{https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=e4ae9f8b13fab5c5ce1e1e820b64bce196f60c53}
-
-\bibitem{runacap2024}
-Runacap's Ross Index. \emph{Q3 2024 Report on Fastest-Growing Open-Source Libraries}, 2024. \url{https://runacap.com/ross-index/q3-2024/}.
-
-
-\bibitem{Morris1999} 
-R.G.M. Morris, ``D.O. Hebb: The Organization of Behavior, Wiley: New York; 1949,'' \textit{Brain Research Bulletin}, vol. 50, no. 5-6, p. 437, Nov. 1999, doi: \href{https://doi.org/10.1016/s0361-9230(99)00182-3}{10.1016/s0361-9230(99)00182-3}.
-
-\bibitem{LSTM}
-S. Hochreiter and J. Schmidhuber, ``Long Short-term Memory,'' \textit{Neural Computation}, vol. 9, pp. 1735-80, Dec. 1997, doi: \href{https://doi.org/10.1162/neco.1997.9.8.1735}{10.1162/neco.1997.9.8.1735}.
-
-\bibitem{gu2024} 
-Y. Gu, L. Dong, F. Wei, and M. Huang, 
-\textit{MiniLLM: Knowledge Distillation of Large Language Models}, 
-Proceedings of ICLR 2024.
-    
-\bibitem{shreekumar2022importance}
-Shreekumar, S., Mundke, S., \& Dhanawade, M. (2022). \textit{Importance of Web Scraping in E-Commerce Business}. NCRD’s Technical Review: e-Journal, 7(1). Sterling Institute of Management Studies.
-
-
- \bibitem{jiang2023}
-    Z. Jiang, F. F. Xu, L. Gao, Z. Sun, Q. Liu, J. Dwivedi-Yu, Y. Yang, J. Callan, and G. Neubig, ``Active Retrieval Augmented Generation,'' \emph{arXiv preprint arXiv:2305.06983v2}, 2023.
-\bibitem{hadi2024}
-Hadi, M. U., Al Tashi, Q., Shah, A., et al. (2024). Large Language Models: A Comprehensive Survey of Its Applications, Challenges, Limitations, and Future Prospects. \textit{TechRxiv Preprints}. Retrieved from \url{https://doi.org/10.36227/techrxiv.23589741.v6}.
-
-
-
-
-\bibitem{Tamburri2019}
-D.~A. Tamburri, F.~Palomba, A.~Serebrenik, and A.~Zaidman, ``Discovering community patterns in open-source: A systematic approach and its evaluation,'' \emph{Empirical Software Engineering}, vol.~24, no.~3, pp. 1369–1417, 2019.
-
-
-\end{thebibliography}
-
-

@@ -1,0 +1,138 @@
+\babel@toc {english}{}\relax 
+\contentsline {chapter}{\numberline {1}Introduction}{1}{chapter.1}%
+\contentsline {section}{\numberline {1.1}Role of data in 2025}{2}{section.1.1}%
+\contentsline {subsection}{\numberline {1.1.1}Data types}{2}{subsection.1.1.1}%
+\contentsline {subsection}{\numberline {1.1.2}Data is the new oil}{3}{subsection.1.1.2}%
+\contentsline {subsection}{\numberline {1.1.3}The growing value of private data}{4}{subsection.1.1.3}%
+\contentsline {section}{\numberline {1.2}History of Web-Scraping}{6}{section.1.2}%
+\contentsline {section}{\numberline {1.3}The importance of Scraping}{7}{section.1.3}%
+\contentsline {section}{\numberline {1.4}Historical context}{9}{section.1.4}%
+\contentsline {subsection}{\numberline {1.4.1}Scraping techniques and frameworks}{9}{subsection.1.4.1}%
+\contentsline {subsection}{\numberline {1.4.2}Agents and bots in the internet context}{9}{subsection.1.4.2}%
+\contentsline {subsection}{\numberline {1.4.3}Agent definition}{10}{subsection.1.4.3}%
+\contentsline {subsection}{\numberline {1.4.4}Importance of APIs for scraping}{10}{subsection.1.4.4}%
+\contentsline {subsection}{\numberline {1.4.5}Anti-Bot policies}{12}{subsection.1.4.5}%
+\contentsline {section}{\numberline {1.5}The Concept of Agents in Agent Based Models (ABMS)}{13}{section.1.5}%
+\contentsline {section}{\numberline {1.6}The Belief-Desire-Intention (BDI) Model}{14}{section.1.6}%
+\contentsline {section}{\numberline {1.7}Applications of ABMS in Complex Systems}{14}{section.1.7}%
+\contentsline {subsection}{\numberline {1.7.1}Ecology and Environmental Modeling}{14}{subsection.1.7.1}%
+\contentsline {subsection}{\numberline {1.7.2}Social Sciences and Economics}{15}{subsection.1.7.2}%
+\contentsline {subsection}{\numberline {1.7.3}Healthcare and Epidemiology}{15}{subsection.1.7.3}%
+\contentsline {section}{\numberline {1.8}ABMS Software Tools}{16}{section.1.8}%
+\contentsline {subsection}{\numberline {1.8.1}Agents in the internet}{17}{subsection.1.8.1}%
+\contentsline {subsection}{\numberline {1.8.2}Current problems and issues with “classic” scraping libraries}{18}{subsection.1.8.2}%
+\contentsline {subsection}{\numberline {1.8.3}The current request of data}{19}{subsection.1.8.3}%
+\contentsline {subsubsection}{CSS selectors}{19}{section*.3}%
+\contentsline {subsubsection}{XPath}{20}{section*.4}%
+\contentsline {subsubsection}{HTML DOM}{20}{section*.5}%
+\contentsline {subsubsection}{Regex}{20}{section*.6}%
+\contentsline {section}{\numberline {1.9}Presentation of ScrapegraphAI ’s library}{21}{section.1.9}%
+\contentsline {subsection}{\numberline {1.9.1}The intuition}{21}{subsection.1.9.1}%
+\contentsline {subsection}{\numberline {1.9.2}First prototype}{22}{subsection.1.9.2}%
+\contentsline {subsection}{\numberline {1.9.3}First public release}{22}{subsection.1.9.3}%
+\contentsline {subsection}{\numberline {1.9.4}Actual daily usage and numbers of the library}{22}{subsection.1.9.4}%
+\contentsline {subsection}{\numberline {1.9.5}The power of the open source community}{24}{subsection.1.9.5}%
+\contentsline {subsection}{\numberline {1.9.6}Open source events}{24}{subsection.1.9.6}%
+\contentsline {subsection}{\numberline {1.9.7}Projects created by the community}{26}{subsection.1.9.7}%
+\contentsline {section}{\numberline {1.10}Thesis structure}{28}{section.1.10}%
+\contentsline {chapter}{\numberline {2}Methods and procedures}{33}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Introduction to neural networks}{33}{section.2.1}%
+\contentsline {section}{\numberline {2.2}The perceptron and multilayer perceptron}{35}{section.2.2}%
+\contentsline {section}{\numberline {2.3}Backpropagation and parameter optimization}{37}{section.2.3}%
+\contentsline {section}{\numberline {2.4}Hyperparameters}{39}{section.2.4}%
+\contentsline {section}{\numberline {2.5}Training test, validation test and testing set}{41}{section.2.5}%
+\contentsline {section}{\numberline {2.6}Metrics}{41}{section.2.6}%
+\contentsline {subsection}{\numberline {2.6.1}Coefficient of determination (R2)}{41}{subsection.2.6.1}%
+\contentsline {subsection}{\numberline {2.6.2}Root mean squared error (RMSE)}{42}{subsection.2.6.2}%
+\contentsline {subsection}{\numberline {2.6.3}Mean Absolute Error MAE}{42}{subsection.2.6.3}%
+\contentsline {section}{\numberline {2.7}Recurrent neurons (RNN) and layers}{43}{section.2.7}%
+\contentsline {section}{\numberline {2.8}Memory Cells and long short memory term network}{45}{section.2.8}%
+\contentsline {subsection}{\numberline {2.8.1}Introduction to LSTM and limits of RNN}{45}{subsection.2.8.1}%
+\contentsline {subsection}{\numberline {2.8.2}LSTM cell}{45}{subsection.2.8.2}%
+\contentsline {subsection}{\numberline {2.8.3}Other cells: Dense cells and GRU cells}{48}{subsection.2.8.3}%
+\contentsline {section}{\numberline {2.9}Introduction to LLMs}{49}{section.2.9}%
+\contentsline {subsection}{\numberline {2.9.1}Generative AI Design Cycle}{49}{subsection.2.9.1}%
+\contentsline {subsection}{\numberline {2.9.2}Attention is all you need}{50}{subsection.2.9.2}%
+\contentsline {subsection}{\numberline {2.9.3}Application of LLMs in the World}{50}{subsection.2.9.3}%
+\contentsline {subsubsection}{Integration of LLMs in a software engineering project}{51}{section*.24}%
+\contentsline {subsection}{\numberline {2.9.4}Limitations of LLMs}{53}{subsection.2.9.4}%
+\contentsline {subsection}{\numberline {2.9.5}Model distillation}{55}{subsection.2.9.5}%
+\contentsline {subsection}{\numberline {2.9.6}Most famous companies and models}{56}{subsection.2.9.6}%
+\contentsline {section}{\numberline {2.10}Introduction to Agents and Agent-Based Modelling (ABM)}{58}{section.2.10}%
+\contentsline {subsection}{\numberline {2.10.1}Short-Term Memory and Asynchronous Processing}{58}{subsection.2.10.1}%
+\contentsline {subsection}{\numberline {2.10.2}Long-Term Memory and Parallel Thought Processes}{59}{subsection.2.10.2}%
+\contentsline {subsection}{\numberline {2.10.3}Multi-Agent Systems and Asynchronous Execution}{59}{subsection.2.10.3}%
+\contentsline {subsection}{\numberline {2.10.4}Multi-Agent Environment and Event-Driven Interaction}{60}{subsection.2.10.4}%
+\contentsline {subsection}{\numberline {2.10.5}Adaptive Learning and Self-Optimization in Multi-Agent Systems}{61}{subsection.2.10.5}%
+\contentsline {subsection}{\numberline {2.10.6}Multi-Agent Interaction and Interrupt Handling}{61}{subsection.2.10.6}%
+\contentsline {subsection}{\numberline {2.10.7}Agent Use-Cases and Future Directions}{62}{subsection.2.10.7}%
+\contentsline {subsection}{\numberline {2.10.8}Additional Insights from \blx@tocontentsinit {0}\cite {ginart2024}}{62}{subsection.2.10.8}%
+\contentsline {subsection}{\numberline {2.10.9}Infrastructure for AI Agents}{64}{subsection.2.10.9}%
+\contentsline {chapter}{\numberline {3}Benchmarks and comparisons}{75}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Use of LLMs for extracting data}{76}{section.3.1}%
+\contentsline {subsection}{\numberline {3.1.1}Internet context}{76}{subsection.3.1.1}%
+\contentsline {subsection}{\numberline {3.1.2}Documents context}{77}{subsection.3.1.2}%
+\contentsline {section}{\numberline {3.2}Structure of the library}{79}{section.3.2}%
+\contentsline {subsection}{\numberline {3.2.1}Basic integration}{79}{subsection.3.2.1}%
+\contentsline {subsection}{\numberline {3.2.2}Framework introduction}{79}{subsection.3.2.2}%
+\contentsline {subsection}{\numberline {3.2.3}Principal nodes}{79}{subsection.3.2.3}%
+\contentsline {subsubsection}{Fetch\_node}{79}{section*.32}%
+\contentsline {subsubsection}{Fetch\_node\_level\_k}{81}{section*.33}%
+\contentsline {subsubsection}{Parse\_node}{81}{section*.34}%
+\contentsline {subsubsection}{Search\_internet\_node}{81}{section*.35}%
+\contentsline {subsubsection}{Generate\_answer\_node}{81}{section*.36}%
+\contentsline {subsubsection}{Generate\_answer\_node\_k\_level}{81}{section*.37}%
+\contentsline {subsubsection}{Html\_analyzer\_node}{82}{section*.38}%
+\contentsline {subsubsection}{Conditional\_node}{82}{section*.39}%
+\contentsline {subsubsection}{Description\_node}{82}{section*.40}%
+\contentsline {subsection}{\numberline {3.2.4}Principal graphs}{82}{subsection.3.2.4}%
+\contentsline {subsubsection}{Smart\_scraper}{82}{section*.41}%
+\contentsline {subsubsection}{Smart\_scraper\_lite\_graph}{83}{section*.43}%
+\contentsline {subsubsection}{Search\_graph}{83}{section*.45}%
+\contentsline {subsubsection}{JSON\_scraper}{83}{section*.47}%
+\contentsline {subsubsection}{CSV\_scraper}{83}{section*.49}%
+\contentsline {subsection}{\numberline {3.2.5}Multiple request and parallelism integration}{84}{subsection.3.2.5}%
+\contentsline {subsection}{\numberline {3.2.6}Output schema integration}{84}{subsection.3.2.6}%
+\contentsline {subsection}{\numberline {3.2.7}A new paradigm an LLM that generates code for scraping}{85}{subsection.3.2.7}%
+\contentsline {subsubsection}{Script\_generator\_graph}{86}{section*.54}%
+\contentsline {subsubsection}{Code\_generator\_graph}{86}{section*.56}%
+\contentsline {subsection}{\numberline {3.2.8}Updates management}{87}{subsection.3.2.8}%
+\contentsline {subsubsection}{Most Visited Websites}{87}{section*.59}%
+\contentsline {paragraph}{Commentary}{89}{section*.61}%
+\contentsline {paragraph}{Image Commentary}{89}{section*.62}%
+\contentsline {section}{\numberline {3.3}What makes ScrapegraphAI cool}{90}{section.3.3}%
+\contentsline {subsection}{\numberline {3.3.1}Available LLM Models}{90}{subsection.3.3.1}%
+\contentsline {subsubsection}{Why Supporting Multiple LLM Versions is Important}{90}{section*.65}%
+\contentsline {subsubsection}{Future-Proofing ScrapeGraph}{91}{section*.66}%
+\contentsline {section}{\numberline {3.4}Step-by-step guide}{91}{section.3.4}%
+\contentsline {subsection}{\numberline {3.4.1}Open source library}{91}{subsection.3.4.1}%
+\contentsline {subsection}{\numberline {3.4.2}Official APIs}{92}{subsection.3.4.2}%
+\contentsline {section}{\numberline {3.5}Benchmarks}{92}{section.3.5}%
+\contentsline {subsection}{\numberline {3.5.1}LLM-Based Extraction Benchmarking}{92}{subsection.3.5.1}%
+\contentsline {section}{\numberline {3.6}Setup Time}{94}{section.3.6}%
+\contentsline {subsection}{\numberline {3.6.1}ScrapeGraphAI}{94}{subsection.3.6.1}%
+\contentsline {subsection}{\numberline {3.6.2}BeautifulSoup}{94}{subsection.3.6.2}%
+\contentsline {section}{\numberline {3.7}Balancing Extraction Load and Inference Time}{95}{section.3.7}%
+\contentsline {section}{\numberline {3.8}Benchmark Evaluation}{96}{section.3.8}%
+\contentsline {subsection}{\numberline {3.8.1}Accuracy}{96}{subsection.3.8.1}%
+\contentsline {section}{\numberline {3.9}Scripts}{96}{section.3.9}%
+\contentsline {subsection}{\numberline {3.9.1}smart\_scraper.py}{96}{subsection.3.9.1}%
+\contentsline {subsection}{\numberline {3.9.2}beautifousoup.py}{97}{subsection.3.9.2}%
+\contentsline {subsection}{\numberline {3.9.3}Integration and Workflow}{98}{subsection.3.9.3}%
+\contentsline {section}{\numberline {3.10}Comparison with ScrapegraphAI APIs}{98}{section.3.10}%
+\contentsline {subsection}{\numberline {3.10.1}Advantages of Using ScrapegraphAI APIs Over the Python Library}{99}{subsection.3.10.1}%
+\contentsline {section}{\numberline {3.11}Real-World Applications}{99}{section.3.11}%
+\contentsline {subsection}{\numberline {3.11.1}E-Commerce and Retail}{100}{subsection.3.11.1}%
+\contentsline {subsection}{\numberline {3.11.2}Market Research and Analytics}{100}{subsection.3.11.2}%
+\contentsline {subsection}{\numberline {3.11.3}Healthcare and Life Sciences}{101}{subsection.3.11.3}%
+\contentsline {subsection}{\numberline {3.11.4}Finance and Investment}{102}{subsection.3.11.4}%
+\contentsline {subsection}{\numberline {3.11.5}Education and Academia}{102}{subsection.3.11.5}%
+\contentsline {subsection}{\numberline {3.11.6}Media and Journalism}{103}{subsection.3.11.6}%
+\contentsline {subsection}{\numberline {3.11.7}Legal and Compliance Monitoring}{103}{subsection.3.11.7}%
+\contentsline {subsection}{\numberline {3.11.8}Future Applications and Opportunities}{104}{subsection.3.11.8}%
+\contentsline {chapter}{\numberline {4}Conclusions}{117}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Results achieved}{118}{section.4.1}%
+\contentsline {section}{\numberline {4.2}Turning ScrapegraphAI into a company}{118}{section.4.2}%
+\contentsline {section}{\numberline {4.3}Next steps}{121}{section.4.3}%
+\contentsline {subsection}{\numberline {4.3.1}Integrations inside the agents}{121}{subsection.4.3.1}%
+\contentsline {subsection}{\numberline {4.3.2}Integration of RAG databases}{121}{subsection.4.3.2}%
