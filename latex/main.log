@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2025.2.8)  9 FEB 2025 15:28
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2025.2.8)  9 FEB 2025 15:37
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1449,619 +1449,590 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 
 LaTeX Warning: Citation 'chan2025' on page 64 undefined on input line 849.
 
-[64] [65 <./Assets/complex_agent.png> <./Assets/agent-architecture.png>] [66
 
-]
-No file main.lof.
-\tf@lof=\write6
-\openout6 = `main.lof'.
-
-[67] [68
-
-]
-No file main.lot.
-\tf@lot=\write7
-\openout7 = `main.lot'.
-
-
-./chapters/chap01.tex:868: Package biblatex Error: '\bibliographystyle' invalid for 'biblatex'.
+./chapters/chap01.tex:862: Package biblatex Error: '\bibliographystyle' invalid for 'biblatex'.
 
 See the biblatex package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.868 \bibliographystyle{siam}
+l.862 \bibliographystyle{siam}
                               
 Use the package option 'style' instead.
 I'm ignoring this command.
 
-[69] [70
-
-] [71] [72]
-Underfull \hbox (badness 2762) in paragraph at lines 926--927
-[]\T1/cmr/m/n/12 Big Data Wire. (2024, March 6). \T1/cmr/m/it/12 GenAI doesn't need big-ger LLMs,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 926--927
-\T1/cmr/m/it/12 it needs bet-ter data\T1/cmr/m/n/12 . []$\T1/cmtt/m/n/12 https : / / www . bigdatawire . com / 2024 / 03 / 06 /
- []
-
-
-Underfull \hbox (badness 8132) in paragraph at lines 929--930
-[]\T1/cmr/m/n/12 PrivacyOS. (2024). \T1/cmr/m/it/12 The 95% of sanc-tions is trig-gered by an of-
- []
-
-
-Underfull \hbox (badness 3965) in paragraph at lines 929--930
-\T1/cmr/m/it/12 fense on per-sonal data and con-sents\T1/cmr/m/n/12 . []$\T1/cmtt/m/n/12 https : / / www . privacyos . com / en /
- []
-
-
-Overfull \hbox (73.34222pt too wide) in paragraph at lines 929--930
-\T1/cmtt/m/n/12 the-[]95-[]of-[]sanctions-[]is-[]triggered-[]by-[]an-[]offense-[]on-[]personal-[]data-[]and-[]consents/$[] 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 949--950
-[]\T1/cmr/m/n/12 CiteSeerX. (2024). \T1/cmr/m/it/12 The Grow-ing Value of Pri-vate Data\T1/cmr/m/n/12 . []$\T1/cmtt/m/n/12 https :
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 949--950
-\T1/cmtt/m/n/12 / / citeseerx . ist . psu . edu / document ? repid = rep1 & type = pdf & doi =
- []
-
-[73] [74]
-Chapter 3.
-[75
+[64] [65 <./Assets/complex_agent.png> <./Assets/agent-architecture.png>] [66
 
 ]
+Chapter 3.
+[67]
 
-LaTeX Warning: Citation 'bigdatawire2024' on page 76 undefined on input line 996.
+LaTeX Warning: Citation 'bigdatawire2024' on page 68 undefined on input line 881.
 
-[76]
-Overfull \hbox (32.97809pt too wide) in paragraph at lines 998--999
+[68]
+Overfull \hbox (32.97809pt too wide) in paragraph at lines 883--884
 []\T1/cmr/m/n/12 High-quality data^^Vcharacterized by ac-cu-racy, rel-e-vance, and min-i-mal noise^^Vempowers
  []
 
 
-./chapters/chap01.tex:1003: LaTeX Error: Unknown float option `H'.
+./chapters/chap01.tex:888: LaTeX Error: Unknown float option `H'.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.1003 \begin{figure} [H]
-                         
+l.888 \begin{figure} [H]
+                        
 Option `H' ignored and `p' used.
 
-<Assets/required_data.png, id=567, 882.29625pt x 322.20375pt>
+<Assets/required_data.png, id=482, 882.29625pt x 322.20375pt>
 File: Assets/required_data.png Graphic file (type png)
 <use Assets/required_data.png>
-Package pdftex.def Info: Assets/required_data.png  used on input line 1005.
+Package pdftex.def Info: Assets/required_data.png  used on input line 890.
 (pdftex.def)             Requested size: 405.45047pt x 148.06311pt.
 
-LaTeX Warning: Citation 'privacyos2024' on page 77 undefined on input line 1016.
+LaTeX Warning: Citation 'privacyos2024' on page 69 undefined on input line 901.
 
-[77] [78]
+[69] [70]
 
-LaTeX Warning: Reference `fig:scrapegraph-script' on page 79 undefined on input line 1028.
+LaTeX Warning: Reference `fig:scrapegraph-script' on page 71 undefined on input line 913.
 
 
-./chapters/chap01.tex:1030: LaTeX Error: Unknown float option `H'.
+./chapters/chap01.tex:915: LaTeX Error: Unknown float option `H'.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.1030 \begin{figure}[H]
-                        
+l.915 \begin{figure}[H]
+                       
 Option `H' ignored and `p' used.
 
-<Assets/scrapegraph_integration.png, id=577, 1359.0775pt x 1111.15125pt>
+<Assets/scrapegraph_integration.png, id=492, 1359.0775pt x 1111.15125pt>
 File: Assets/scrapegraph_integration.png Graphic file (type png)
 <use Assets/scrapegraph_integration.png>
-Package pdftex.def Info: Assets/scrapegraph_integration.png  used on input line 1032.
+Package pdftex.def Info: Assets/scrapegraph_integration.png  used on input line 917.
 (pdftex.def)             Requested size: 320.0935pt x 261.69704pt.
-[79] [80 <./Assets/required_data.png> <./Assets/scrapegraph_integration.png>] [81]
+[71] [72 <./Assets/required_data.png> <./Assets/scrapegraph_integration.png>] [73]
 
-./chapters/chap01.tex:1089: LaTeX Error: Unknown float option `H'.
+./chapters/chap01.tex:974: LaTeX Error: Unknown float option `H'.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.1089 \begin{figure}[H]
-                        
+l.974 \begin{figure}[H]
+                       
 Option `H' ignored and `p' used.
 
-<Assets/smart_scraper.png, id=605, 500.87125pt x 199.74625pt>
+<Assets/smart_scraper.png, id=520, 500.87125pt x 199.74625pt>
 File: Assets/smart_scraper.png Graphic file (type png)
 <use Assets/smart_scraper.png>
-Package pdftex.def Info: Assets/smart_scraper.png  used on input line 1091.
+Package pdftex.def Info: Assets/smart_scraper.png  used on input line 976.
 (pdftex.def)             Requested size: 320.0935pt x 127.65733pt.
-[82]
+[74]
 
-./chapters/chap01.tex:1106: LaTeX Error: Unknown float option `H'.
+./chapters/chap01.tex:991: LaTeX Error: Unknown float option `H'.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.1106 \begin{figure}[H]
-                        
+l.991 \begin{figure}[H]
+                       
 Option `H' ignored and `p' used.
 
-<Assets/smart_scraper_lite.png, id=615, 300.12125pt x 190.7125pt>
+<Assets/smart_scraper_lite.png, id=530, 300.12125pt x 190.7125pt>
 File: Assets/smart_scraper_lite.png Graphic file (type png)
 <use Assets/smart_scraper_lite.png>
-Package pdftex.def Info: Assets/smart_scraper_lite.png  used on input line 1108.
+Package pdftex.def Info: Assets/smart_scraper_lite.png  used on input line 993.
 (pdftex.def)             Requested size: 213.39568pt x 135.6076pt.
 
-./chapters/chap01.tex:1120: LaTeX Error: Unknown float option `H'.
+./chapters/chap01.tex:1005: LaTeX Error: Unknown float option `H'.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.1120 \begin{figure}[H]
+l.1005 \begin{figure}[H]
                         
 Option `H' ignored and `p' used.
 
-<Assets/search_graph.png, id=616, 675.52374pt x 514.92375pt>
+<Assets/search_graph.png, id=531, 675.52374pt x 514.92375pt>
 File: Assets/search_graph.png Graphic file (type png)
 <use Assets/search_graph.png>
-Package pdftex.def Info: Assets/search_graph.png  used on input line 1122.
+Package pdftex.def Info: Assets/search_graph.png  used on input line 1007.
 (pdftex.def)             Requested size: 426.79135pt x 325.33081pt.
 
-./chapters/chap01.tex:1135: LaTeX Error: Unknown float option `H'.
+./chapters/chap01.tex:1020: LaTeX Error: Unknown float option `H'.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.1135 \begin{figure}[H]
+l.1020 \begin{figure}[H]
                         
 Option `H' ignored and `p' used.
 
-<Assets/json_scraper.png, id=617, 489.83pt x 226.8475pt>
+<Assets/json_scraper.png, id=532, 489.83pt x 226.8475pt>
 File: Assets/json_scraper.png Graphic file (type png)
 <use Assets/json_scraper.png>
-Package pdftex.def Info: Assets/json_scraper.png  used on input line 1137.
+Package pdftex.def Info: Assets/json_scraper.png  used on input line 1022.
 (pdftex.def)             Requested size: 320.0935pt x 148.24178pt.
 
-./chapters/chap01.tex:1150: LaTeX Error: Unknown float option `H'.
+./chapters/chap01.tex:1035: LaTeX Error: Unknown float option `H'.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.1150 \begin{figure}[H]
+l.1035 \begin{figure}[H]
                         
 Option `H' ignored and `p' used.
 
-<Assets/csv_scraper.png, id=618, 232.87pt x 113.42375pt>
+<Assets/csv_scraper.png, id=533, 232.87pt x 113.42375pt>
 File: Assets/csv_scraper.png Graphic file (type png)
 <use Assets/csv_scraper.png>
-Package pdftex.def Info: Assets/csv_scraper.png  used on input line 1152.
+Package pdftex.def Info: Assets/csv_scraper.png  used on input line 1037.
 (pdftex.def)             Requested size: 320.0935pt x 155.92436pt.
-[83]
+[75]
 
-LaTeX Warning: Reference `fig:multi' on page 84 undefined on input line 1160.
+LaTeX Warning: Reference `fig:multi' on page 76 undefined on input line 1045.
 
 
-./chapters/chap01.tex:1162: LaTeX Error: Unknown float option `H'.
+./chapters/chap01.tex:1047: LaTeX Error: Unknown float option `H'.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.1162 \begin{figure}[H]
+l.1047 \begin{figure}[H]
                         
 Option `H' ignored and `p' used.
 
-<Assets/multi_graph.png, id=627, 710.655pt x 528.97626pt>
+<Assets/multi_graph.png, id=542, 710.655pt x 528.97626pt>
 File: Assets/multi_graph.png Graphic file (type png)
 <use Assets/multi_graph.png>
-Package pdftex.def Info: Assets/multi_graph.png  used on input line 1164.
+Package pdftex.def Info: Assets/multi_graph.png  used on input line 1049.
 (pdftex.def)             Requested size: 320.0935pt x 238.2631pt.
-[84]
+[76]
 
-./chapters/chap01.tex:1187: LaTeX Error: Unknown float option `H'.
+./chapters/chap01.tex:1072: LaTeX Error: Unknown float option `H'.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.1187 \begin{figure}[H]
+l.1072 \begin{figure}[H]
                         
 Option `H' ignored and `p' used.
 
-<Assets/schema_integration.png, id=634, 1324.95pt x 1339.0025pt>
+<Assets/schema_integration.png, id=549, 1324.95pt x 1339.0025pt>
 File: Assets/schema_integration.png Graphic file (type png)
 <use Assets/schema_integration.png>
-Package pdftex.def Info: Assets/schema_integration.png  used on input line 1189.
+Package pdftex.def Info: Assets/schema_integration.png  used on input line 1074.
 (pdftex.def)             Requested size: 426.79135pt x 431.30911pt.
 
-LaTeX Warning: Reference `fig:actually indians' on page 85 undefined on input line 1199.
+LaTeX Warning: Reference `fig:actually indians' on page 77 undefined on input line 1084.
 
-[85]
+[77]
 
-./chapters/chap01.tex:1203: LaTeX Error: Unknown float option `H'.
+./chapters/chap01.tex:1088: LaTeX Error: Unknown float option `H'.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.1203 \begin{figure}[H]
+l.1088 \begin{figure}[H]
                         
 Option `H' ignored and `p' used.
 
-<Assets/code_generator_scripts.png, id=641, 550.055pt x 509.905pt>
+<Assets/code_generator_scripts.png, id=555, 550.055pt x 509.905pt>
 File: Assets/code_generator_scripts.png Graphic file (type png)
 <use Assets/code_generator_scripts.png>
-Package pdftex.def Info: Assets/code_generator_scripts.png  used on input line 1205.
+Package pdftex.def Info: Assets/code_generator_scripts.png  used on input line 1090.
 (pdftex.def)             Requested size: 426.79135pt x 395.65468pt.
-<Assets/generate_script_graph.png, id=642, 438.63875pt x 178.6675pt>
+<Assets/generate_script_graph.png, id=556, 438.63875pt x 178.6675pt>
 File: Assets/generate_script_graph.png Graphic file (type png)
 <use Assets/generate_script_graph.png>
-Package pdftex.def Info: Assets/generate_script_graph.png  used on input line 1222.
+Package pdftex.def Info: Assets/generate_script_graph.png  used on input line 1107.
 (pdftex.def)             Requested size: 362.77525pt x 147.77054pt.
 
-LaTeX Warning: Reference `fig:code-generator' on page 86 undefined on input line 1228.
+LaTeX Warning: Reference `fig:code-generator' on page 78 undefined on input line 1113.
 
 
-./chapters/chap01.tex:1240: LaTeX Error: Unknown float option `H'.
+./chapters/chap01.tex:1125: LaTeX Error: Unknown float option `H'.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.1240 \begin{figure}[H]
+l.1125 \begin{figure}[H]
                         
 Option `H' ignored and `p' used.
 
-<Assets/code_generator.png, id=643, 894.34125pt x 588.1975pt>
+<Assets/code_generator.png, id=557, 894.34125pt x 588.1975pt>
 File: Assets/code_generator.png Graphic file (type png)
 <use Assets/code_generator.png>
-Package pdftex.def Info: Assets/code_generator.png  used on input line 1244.
+Package pdftex.def Info: Assets/code_generator.png  used on input line 1129.
 (pdftex.def)             Requested size: 533.48918pt x 350.87488pt.
-[86]
+[78]
 
-./chapters/chap01.tex:1258: LaTeX Error: Unknown float option `H'.
+./chapters/chap01.tex:1143: LaTeX Error: Unknown float option `H'.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.1258 \begin{figure}[H]
+l.1143 \begin{figure}[H]
                         
 Option `H' ignored and `p' used.
 
-<Assets/posthog_dashboard.png, id=650, 1648.1575pt x 958.58125pt>
+<Assets/posthog_dashboard.png, id=564, 1648.1575pt x 958.58125pt>
 File: Assets/posthog_dashboard.png Graphic file (type png)
 <use Assets/posthog_dashboard.png>
-Package pdftex.def Info: Assets/posthog_dashboard.png  used on input line 1260.
+Package pdftex.def Info: Assets/posthog_dashboard.png  used on input line 1145.
 (pdftex.def)             Requested size: 405.45047pt x 235.81252pt.
 
-LaTeX Warning: Reference `tab:most-visited-websites' on page 87 undefined on input line 1269.
+LaTeX Warning: Reference `tab:most-visited-websites' on page 79 undefined on input line 1154.
 
 
-./chapters/chap01.tex:1271: LaTeX Error: Unknown float option `H'.
+./chapters/chap01.tex:1156: LaTeX Error: Unknown float option `H'.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.1271 \begin{table}[H]
+l.1156 \begin{table}[H]
                        
 Option `H' ignored and `p' used.
 
 
-LaTeX Warning: Reference `tab:most-visited-websites' on page 87 undefined on input line 1297.
+LaTeX Warning: Reference `tab:most-visited-websites' on page 79 undefined on input line 1182.
 
-[87] [88]
-Overfull \hbox (15.82957pt too wide) in paragraph at lines 1299--1300
+[79] [80]
+Overfull \hbox (15.82957pt too wide) in paragraph at lines 1184--1185
 []\T1/cmr/bx/n/12 Professional and In-for-ma-tional Plat-forms\T1/cmr/m/n/12 : \T1/cmtt/m/n/12 linkedin.com \T1/cmr/m/n/12 and \T1/cmtt/m/n/12 nytimes.com
  []
 
 
-Overfull \hbox (7.33026pt too wide) in paragraph at lines 1300--1301
+Overfull \hbox (7.33026pt too wide) in paragraph at lines 1185--1186
 []\T1/cmr/bx/n/12 E-Commerce and Re-tail\T1/cmr/m/n/12 : Plat-forms like \T1/cmtt/m/n/12 adidas.se \T1/cmr/m/n/12 and \T1/cmtt/m/n/12 m.stock.naver.com
  []
 
 
-Overfull \hbox (6.95537pt too wide) in paragraph at lines 1302--1303
+Overfull \hbox (6.95537pt too wide) in paragraph at lines 1187--1188
 []\T1/cmr/bx/n/12 Dynamic and Region-Specific Sources\T1/cmr/m/n/12 : \T1/cmtt/m/n/12 profesia.sk \T1/cmr/m/n/12 and \T1/cmtt/m/n/12 derstandard.at
  []
 
 
-LaTeX Warning: Reference `fig:geographic-distribution' on page 89 undefined on input line 1308.
+LaTeX Warning: Reference `fig:geographic-distribution' on page 81 undefined on input line 1193.
 
 
-./chapters/chap01.tex:1317: LaTeX Error: Unknown float option `H'.
+./chapters/chap01.tex:1202: LaTeX Error: Unknown float option `H'.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.1317 \begin{figure}[H]
+l.1202 \begin{figure}[H]
                         
 Option `H' ignored and `p' used.
 
-<Assets/countries.jpg, id=662, 1284.8pt x 503.8825pt>
+<Assets/countries.jpg, id=577, 1284.8pt x 503.8825pt>
 File: Assets/countries.jpg Graphic file (type jpg)
 <use Assets/countries.jpg>
-Package pdftex.def Info: Assets/countries.jpg  used on input line 1319.
+Package pdftex.def Info: Assets/countries.jpg  used on input line 1204.
 (pdftex.def)             Requested size: 321.19922pt x 125.9703pt.
 
-./chapters/chap01.tex:1324: LaTeX Error: Unknown float option `H'.
+./chapters/chap01.tex:1209: LaTeX Error: Unknown float option `H'.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.1324 \begin{figure}[H]
+l.1209 \begin{figure}[H]
                         
 Option `H' ignored and `p' used.
 
-<Assets/websites.jpg, id=663, 1193.45876pt x 592.2125pt>
+<Assets/websites.jpg, id=578, 1193.45876pt x 592.2125pt>
 File: Assets/websites.jpg Graphic file (type jpg)
 <use Assets/websites.jpg>
-Package pdftex.def Info: Assets/websites.jpg  used on input line 1326.
+Package pdftex.def Info: Assets/websites.jpg  used on input line 1211.
 (pdftex.def)             Requested size: 537.05148pt x 266.49315pt.
 
-Overfull \hbox (110.26013pt too wide) in paragraph at lines 1326--1327
+Overfull \hbox (110.26013pt too wide) in paragraph at lines 1211--1212
  [][] 
  []
 
-[89] [90]
-Overfull \hbox (28.26419pt too wide) in paragraph at lines 1355--1356
-\T1/cmtt/m/it/12 _ _ mk _ it _ IT = ÅMÅŽÕÑ & crid = 2NTE6199MWOQE & sprefix = keyboar % 2Caps % 2C114 &
+[81] [82]
+./chapters/chap01.tex:1240: Missing $ inserted.
+<inserted text> 
+                $
+l.1240 ...yboar\%2Caps\%2C114\&ref=nb_sb_noss_2V}}
+                                                  .
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+./chapters/chap01.tex:1240: Missing $ inserted.
+<inserted text> 
+                $
+l.1240 ...yboar\%2Caps\%2C114\&ref=nb_sb_noss_2V}}
+                                                  .
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+
+Overfull \hbox (678.14313pt too wide) in paragraph at lines 1240--1241
+[]\T1/cmr/m/n/12 For sim-plic-ity, the fol-low-ing link: []\T1/cmr/m/it/12 https://www.amazon.it/s?k=keyboard&__mk_it_IT=%C3%85%C3%85%C5%BD%C3%95%C3%91&crid=2NTE6199MWOQE&sprefix=keyboar%2Caps%2C114&ref=nb$[]\OML/cmm/m/it/12 b[]oss[]V$[]\T1/cmr/m/n/12 . 
  []
 
 
-Overfull \hbox (16.37413pt too wide) in paragraph at lines 1361--1362
+Overfull \hbox (16.37413pt too wide) in paragraph at lines 1246--1247
 \T1/cmr/m/n/12 tory: []$\T1/cmtt/m/n/12 https : / / github . com / ScrapeGraphAI / ScrapegraphLib-[]Examples / blob / main /
  []
 
 
-./chapters/chap01.tex:1365: LaTeX Error: Unknown float option `H'.
+./chapters/chap01.tex:1250: LaTeX Error: Unknown float option `H'.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.1365 \begin{figure}[H]
+l.1250 \begin{figure}[H]
                         
 Option `H' ignored and `p' used.
 
-<Assets/library.png, id=680, 1069.9975pt x 1116.17pt>
+<Assets/library.png, id=596, 1069.9975pt x 1116.17pt>
 File: Assets/library.png Graphic file (type png)
 <use Assets/library.png>
-Package pdftex.def Info: Assets/library.png  used on input line 1367.
+Package pdftex.def Info: Assets/library.png  used on input line 1252.
 (pdftex.def)             Requested size: 405.45047pt x 422.93979pt.
 
-Overfull \hbox (10.07564pt too wide) in paragraph at lines 1372--1373
+Overfull \hbox (10.07564pt too wide) in paragraph at lines 1257--1258
 []\T1/cmr/m/n/12 This code snip-pet demon-strates how to de-fine the con-fig-u-ra-tion for the SmartScrap-
  []
 
-[91]
+[83]
 
-./chapters/chap01.tex:1381: LaTeX Error: Unknown float option `H'.
+./chapters/chap01.tex:1266: LaTeX Error: Unknown float option `H'.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.1381 \begin{figure}[H]
+l.1266 \begin{figure}[H]
                         
 Option `H' ignored and `p' used.
 
-<Assets/api.png, id=695, 1135.24126pt x 423.5825pt>
+<Assets/api.png, id=608, 1135.24126pt x 423.5825pt>
 File: Assets/api.png Graphic file (type png)
 <use Assets/api.png>
-Package pdftex.def Info: Assets/api.png  used on input line 1383.
+Package pdftex.def Info: Assets/api.png  used on input line 1268.
 (pdftex.def)             Requested size: 405.45047pt x 151.28093pt.
-[92]
+[84]
 
-./chapters/chap01.tex:1424: LaTeX Error: Unknown float option `H'.
+./chapters/chap01.tex:1309: LaTeX Error: Unknown float option `H'.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.1424 \begin{figure}[H]
+l.1309 \begin{figure}[H]
                         
 Option `H' ignored and `p' used.
 
-<Assets/wired.png, id=705, 758.33313pt x 435.12563pt>
+<Assets/wired.png, id=617, 758.33313pt x 435.12563pt>
 File: Assets/wired.png Graphic file (type png)
 <use Assets/wired.png>
-Package pdftex.def Info: Assets/wired.png  used on input line 1426.
+Package pdftex.def Info: Assets/wired.png  used on input line 1311.
 (pdftex.def)             Requested size: 405.45047pt x 232.64716pt.
 
-LaTeX Warning: Reference `fig:res-snippet' on page 93 undefined on input line 1431.
+LaTeX Warning: Reference `fig:res-snippet' on page 85 undefined on input line 1316.
 
-[93]
 
-./chapters/chap01.tex:1442: LaTeX Error: Unknown float option `H'.
+./chapters/chap01.tex:1327: LaTeX Error: Unknown float option `H'.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.1442 \begin{figure}[H]
+l.1327 \begin{figure}[H]
                         
 Option `H' ignored and `p' used.
 
-<Assets/result.png, id=713, 2055.68pt x 855.195pt>
+<Assets/result.png, id=618, 2055.68pt x 855.195pt>
 File: Assets/result.png Graphic file (type png)
 <use Assets/result.png>
-Package pdftex.def Info: Assets/result.png  used on input line 1444.
+Package pdftex.def Info: Assets/result.png  used on input line 1329.
 (pdftex.def)             Requested size: 405.45047pt x 168.67406pt.
-[94]
+[85]
 
-LaTeX Warning: Reference `tab:comparison' on page 95 undefined on input line 1463.
+LaTeX Warning: Reference `tab:comparison' on page 86 undefined on input line 1348.
 
-
-Overfull \hbox (0.18213pt too wide) in paragraph at lines 1469--1470
+[86]
+Overfull \hbox (0.18213pt too wide) in paragraph at lines 1354--1355
 \T1/cmr/m/n/12 both tools ex-hibit in-creased pro-cess-ing times due to the need for han-dling JavaScript-
  []
 
-[95] [96]
 
-./chapters/chap01.tex:1513: LaTeX Error: Unknown float option `H'.
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [87] [88]
+
+./chapters/chap01.tex:1398: LaTeX Error: Unknown float option `H'.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.1513 \begin{figure}[H]
+l.1398 \begin{figure}[H]
                         
 Option `H' ignored and `p' used.
 
-<Assets/smart_scraper_wired.png, id=735, 1039.885pt x 1179.40625pt>
+<Assets/smart_scraper_wired.png, id=648, 1039.885pt x 1179.40625pt>
 File: Assets/smart_scraper_wired.png Graphic file (type png)
 <use Assets/smart_scraper_wired.png>
-Package pdftex.def Info: Assets/smart_scraper_wired.png  used on input line 1515.
+Package pdftex.def Info: Assets/smart_scraper_wired.png  used on input line 1400.
 (pdftex.def)             Requested size: 405.45047pt x 459.84062pt.
 
-./chapters/chap01.tex:1520: LaTeX Error: Unknown float option `H'.
+./chapters/chap01.tex:1405: LaTeX Error: Unknown float option `H'.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.1520 \begin{figure}[H]
+l.1405 \begin{figure}[H]
                         
 Option `H' ignored and `p' used.
 
-<Assets/beautifousoup.png, id=736, 1823.81375pt x 1465.475pt>
+<Assets/beautifousoup.png, id=649, 1823.81375pt x 1465.475pt>
 File: Assets/beautifousoup.png Graphic file (type png)
 <use Assets/beautifousoup.png>
-Package pdftex.def Info: Assets/beautifousoup.png  used on input line 1522.
+Package pdftex.def Info: Assets/beautifousoup.png  used on input line 1407.
 (pdftex.def)             Requested size: 405.45047pt x 325.78206pt.
-[97]
+[89]
 
-LaTeX Warning: Reference `tab:comparison' on page 98 undefined on input line 1534.
+LaTeX Warning: Reference `tab:comparison' on page 90 undefined on input line 1419.
 
-[98]
+[90]
 
-LaTeX Warning: Reference `tab:comparison' on page 99 undefined on input line 1552.
+LaTeX Warning: Reference `tab:comparison' on page 91 undefined on input line 1437.
 
-[99] [100] [101] [102] [103] [104] [105 <./Assets/smart_scraper.png> <./Assets/smart_scraper_lite.png>] [106 <./Assets/search_graph.png> <./Assets/json_scraper.png>] [107 <./Assets/csv_scraper.png> <./Assets/multi_graph.png>] [108 <./Assets/schema_integration.png>] [109 <./Assets/code_generator_scripts.png> <./Assets/generate_script_graph.png>] [110 <./Assets/code_generator.png>] [111 <./Assets/posthog_dashboard.png> <./Assets/countries.jpg>] [112 <./Assets/websites.jpg>] [113 <./Assets/library.png> <./Assets/api.png>] [114 <./Assets/wired.png> <./Assets/result.png>] [115 <./Assets/smart_scraper_wired.png>] [116 <./Assets/beautifousoup.png>]
+[91] [92] [93] [94] [95] [96] [97 <./Assets/smart_scraper.png> <./Assets/smart_scraper_lite.png>] [98 <./Assets/search_graph.png> <./Assets/json_scraper.png>] [99 <./Assets/csv_scraper.png> <./Assets/multi_graph.png>] [100 <./Assets/schema_integration.png>] [101 <./Assets/code_generator_scripts.png> <./Assets/generate_script_graph.png>] [102 <./Assets/code_generator.png>] [103 <./Assets/posthog_dashboard.png> <./Assets/countries.jpg>] [104 <./Assets/websites.jpg>] [105 <./Assets/library.png> <./Assets/api.png>] [106 <./Assets/wired.png> <./Assets/result.png>] [107 <./Assets/smart_scraper_wired.png>] [108 <./Assets/beautifousoup.png>]
 Chapter 4.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [117
+ [109
 
 ]
 
-./chapters/chap01.tex:1668: LaTeX Error: Unknown float option `H'.
+./chapters/chap01.tex:1553: LaTeX Error: Unknown float option `H'.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.1668 \begin{figure}[H]
+l.1553 \begin{figure}[H]
                         
 Option `H' ignored and `p' used.
 
-<Assets/webapp.png, id=877, 1157.32375pt x 745.78625pt>
+<Assets/webapp.png, id=790, 1157.32375pt x 745.78625pt>
 File: Assets/webapp.png Graphic file (type png)
 <use Assets/webapp.png>
-Package pdftex.def Info: Assets/webapp.png  used on input line 1670.
+Package pdftex.def Info: Assets/webapp.png  used on input line 1555.
 (pdftex.def)             Requested size: 426.79135pt x 275.02621pt.
 
-LaTeX Warning: Citation 'runacap2024' on page 118 undefined on input line 1675.
+LaTeX Warning: Citation 'runacap2024' on page 110 undefined on input line 1560.
 
 
-./chapters/chap01.tex:1677: LaTeX Error: Unknown float option `H'.
+./chapters/chap01.tex:1562: LaTeX Error: Unknown float option `H'.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.1677 \begin{figure}[H]
+l.1562 \begin{figure}[H]
                         
 Option `H' ignored and `p' used.
 
-<Assets/growing_companies.png, id=878, 1189.44376pt x 681.54625pt>
+<Assets/growing_companies.png, id=791, 1189.44376pt x 681.54625pt>
 File: Assets/growing_companies.png Graphic file (type png)
 <use Assets/growing_companies.png>
-Package pdftex.def Info: Assets/growing_companies.png  used on input line 1679.
+Package pdftex.def Info: Assets/growing_companies.png  used on input line 1564.
 (pdftex.def)             Requested size: 405.45047pt x 232.31543pt.
 
-LaTeX Warning: Reference `fig:enter-dashboard-basi' on page 118 undefined on input line 1686.
+LaTeX Warning: Reference `fig:enter-dashboard-basi' on page 110 undefined on input line 1571.
 
 
-./chapters/chap01.tex:1687: LaTeX Error: Unknown float option `H'.
+./chapters/chap01.tex:1572: LaTeX Error: Unknown float option `H'.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.1687 \begin{figure}[H]
+l.1572 \begin{figure}[H]
                         
 Option `H' ignored and `p' used.
 
-<Assets/dashboard_1.png, id=879, 1515.6625pt x 866.23625pt>
+<Assets/dashboard_1.png, id=792, 1515.6625pt x 866.23625pt>
 File: Assets/dashboard_1.png Graphic file (type png)
 <use Assets/dashboard_1.png>
-Package pdftex.def Info: Assets/dashboard_1.png  used on input line 1689.
+Package pdftex.def Info: Assets/dashboard_1.png  used on input line 1574.
 (pdftex.def)             Requested size: 405.45047pt x 231.71921pt.
 
-LaTeX Warning: Reference `fig:enter-dashboard-playground' on page 118 undefined on input line 1694.
+LaTeX Warning: Reference `fig:enter-dashboard-playground' on page 110 undefined on input line 1579.
 
 
-./chapters/chap01.tex:1695: LaTeX Error: Unknown float option `H'.
+./chapters/chap01.tex:1580: LaTeX Error: Unknown float option `H'.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.1695 \begin{figure}[H]
+l.1580 \begin{figure}[H]
                         
 Option `H' ignored and `p' used.
 
-<Assets/dashboard_2.png, id=880, 1516.66624pt x 866.23625pt>
+<Assets/dashboard_2.png, id=793, 1516.66624pt x 866.23625pt>
 File: Assets/dashboard_2.png Graphic file (type png)
 <use Assets/dashboard_2.png>
-Package pdftex.def Info: Assets/dashboard_2.png  used on input line 1697.
+Package pdftex.def Info: Assets/dashboard_2.png  used on input line 1582.
 (pdftex.def)             Requested size: 405.45047pt x 231.56061pt.
 
-LaTeX Warning: Reference `fig:enter-dashboard-status' on page 118 undefined on input line 1702.
+LaTeX Warning: Reference `fig:enter-dashboard-status' on page 110 undefined on input line 1587.
 
 
-./chapters/chap01.tex:1703: LaTeX Error: Unknown float option `H'.
+./chapters/chap01.tex:1588: LaTeX Error: Unknown float option `H'.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.1703 \begin{figure}[H]
+l.1588 \begin{figure}[H]
                         
 Option `H' ignored and `p' used.
 
-<Assets/dashboard_3.png, id=881, 1515.6625pt x 873.2625pt>
+<Assets/dashboard_3.png, id=794, 1515.6625pt x 873.2625pt>
 File: Assets/dashboard_3.png Graphic file (type png)
 <use Assets/dashboard_3.png>
-Package pdftex.def Info: Assets/dashboard_3.png  used on input line 1705.
+Package pdftex.def Info: Assets/dashboard_3.png  used on input line 1590.
 (pdftex.def)             Requested size: 405.45047pt x 233.59874pt.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [118] [119 <./Assets/webapp.png> <./Assets/growing_companies.png>] [120 <./Assets/dashboard_1.png> <./Assets/dashboard_2.png>]
+ [110] [111 <./Assets/webapp.png> <./Assets/growing_companies.png>] [112 <./Assets/dashboard_1.png> <./Assets/dashboard_2.png>]
 
-LaTeX Warning: Citation 'jiang2023' on page 121 undefined on input line 1715.
+LaTeX Warning: Citation 'jiang2023' on page 113 undefined on input line 1600.
 
 
-LaTeX Warning: Citation 'jiang2023' on page 121 undefined on input line 1717.
+LaTeX Warning: Citation 'jiang2023' on page 113 undefined on input line 1602.
 
-) [121]
+) [113]
 
 /Users/marcovinciguerra/github/master-thesis-scraping/latex/main.tex:40: Package biblatex Error: '\bibliographystyle' invalid for 'biblatex'.
 
@@ -2074,9 +2045,9 @@ l.40 \bibliographystyle{siam}
 Use the package option 'style' instead.
 I'm ignoring this command.
 
-[122] [123 <./Assets/dashboard_3.png>] [124
+[114] [115 <./Assets/dashboard_3.png>] [116
 
-] [125] [126]
+] [117] [118]
 Underfull \hbox (badness 2762) in paragraph at lines 92--93
 []\T1/cmr/m/n/12 Big Data Wire. (2024, March 6). \T1/cmr/m/it/12 GenAI doesn't need big-ger LLMs,
  []
@@ -2111,7 +2082,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 115--116
 \T1/cmtt/m/n/12 / / citeseerx . ist . psu . edu / document ? repid = rep1 & type = pdf & doi =
  []
 
-[127] [128] (./main.aux)
+[119] [120] (./main.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-02-20>
@@ -2130,7 +2101,7 @@ Package rerunfilecheck Warning: File `main.out' has changed.
 
 Package rerunfilecheck Info: Checksums for `main.out':
 (rerunfilecheck)             Before: <no file>
-(rerunfilecheck)             After:  5C3BD3624E91003014A07549D5F263C5;27058.
+(rerunfilecheck)             After:  CA6774ECD0E6E002D454768094D1683A;27058.
 
 Package biblatex Warning: Please (re)run Biber on the file:
 (biblatex)                main
@@ -2141,18 +2112,18 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 22838 strings out of 474116
- 397359 string characters out of 5743683
+ 22785 strings out of 474116
+ 396946 string characters out of 5743683
  1942187 words of memory out of 5000000
- 44544 multiletter control sequences out of 15000+600000
+ 44537 multiletter control sequences out of 15000+600000
  572532 words of font info for 66 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 81i,12n,95p,1145b,1802s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 81i,12n,95p,1145b,1801s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx8.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfbx1728.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfbx2488.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfit1200.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfrm1440.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfrm2074.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfti1200.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sftt1200.pfb>
-Output written on main.pdf (134 pages, 10403729 bytes).
+Output written on main.pdf (126 pages, 10388200 bytes).
 PDF statistics:
- 1170 PDF objects out of 1200 (max. 8388607)
- 897 compressed objects within 9 object streams
- 409 named destinations out of 1000 (max. 500000)
+ 1074 PDF objects out of 1200 (max. 8388607)
+ 809 compressed objects within 9 object streams
+ 365 named destinations out of 1000 (max. 500000)
  226 words of extra memory for PDF output out of 10000 (max. 10000000)
 

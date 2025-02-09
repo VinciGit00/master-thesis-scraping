@@ -341,8 +341,6 @@ INPUT ./Assets/agent-architecture.png
 INPUT ./Assets/agent-architecture.png
 INPUT ./Assets/agent-architecture.png
 INPUT ./Assets/agent-architecture.png
-OUTPUT main.lof
-OUTPUT main.lot
 INPUT ./Assets/required_data.png
 INPUT ./Assets/required_data.png
 INPUT ./Assets/required_data.png
