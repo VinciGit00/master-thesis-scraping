@@ -189,6 +189,9 @@ INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/ifmtarg/ifmtarg.sty
 INPUT /usr/local/texlive/2024/texmf-dist/tex/generic/xstring/xstring.sty
 INPUT /usr/local/texlive/2024/texmf-dist/tex/generic/xstring/xstring.sty
 INPUT /usr/local/texlive/2024/texmf-dist/tex/generic/xstring/xstring.tex
+INPUT ./main.aux
+INPUT ./main.aux
+INPUT main.aux
 OUTPUT main.aux
 INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/biblatex/lbx/english.lbx
 INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/biblatex/lbx/english.lbx
