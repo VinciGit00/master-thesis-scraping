@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2025.2.8)  9 FEB 2025 15:37
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2025.2.8)  11 FEB 2025 10:14
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -654,24 +654,24 @@ Package csquotes Info: Redefining alias 'default' -> 'english'.
 No file main.aux.
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
 Package biblatex Info: Trying to load language 'english'...
 Package biblatex Info: ... file 'english.lbx' found.
 (/usr/local/texlive/2024/texmf-dist/tex/latex/biblatex/lbx/english.lbx
@@ -685,9 +685,9 @@ Package biblatex Info: Automatic encoding selection.
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'main.bbl' found.
  (./main.bbl)
-Package biblatex Info: Reference section=0 on input line 16.
-Package biblatex Info: Reference segment=0 on input line 16.
-Package hyperref Info: Link coloring OFF on input line 16.
+Package biblatex Info: Reference section=0 on input line 15.
+Package biblatex Info: Reference segment=0 on input line 15.
+Package hyperref Info: Link coloring OFF on input line 15.
 \@outlinefile=\write4
 \openout4 = `main.out'.
 
@@ -757,12 +757,12 @@ File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 pdfTeX warning (ext4): destination with the same identifier (name{page.}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.29 \end{abstract}
+l.28 \end{abstract}
                     [1]
 pdfTeX warning (ext4): destination with the same identifier (name{page.}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.33 \emptypage
+l.32 \emptypage
                 [1
 
 ]
@@ -777,7 +777,7 @@ No file main.toc.
 pdfTeX warning (ext4): destination with the same identifier (name{page.}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.35 \clearpage
+l.34 \clearpage
                 [1
 
 ] (./chapters/chap01.tex
@@ -953,7 +953,7 @@ l.245 \begin{figure}[H]
                        
 Option `H' ignored and `p' used.
 
-<Assets/YOSO.png, id=155, 568.1225pt x 347.2975pt>
+<Assets/YOSO.png, id=154, 568.1225pt x 347.2975pt>
 File: Assets/YOSO.png Graphic file (type png)
 <use Assets/YOSO.png>
 Package pdftex.def Info: Assets/YOSO.png  used on input line 247.
@@ -982,7 +982,7 @@ l.256 \begin{figure}[H]
                        
 Option `H' ignored and `p' used.
 
-<Assets/scrapegraphai_logo.png, id=157, 335.00156pt x 284.56313pt>
+<Assets/scrapegraphai_logo.png, id=156, 335.00156pt x 284.56313pt>
 File: Assets/scrapegraphai_logo.png Graphic file (type png)
 <use Assets/scrapegraphai_logo.png>
 Package pdftex.def Info: Assets/scrapegraphai_logo.png  used on input line 258.
@@ -998,7 +998,7 @@ l.265 \begin{figure}[H]
                        
 Option `H' ignored and `p' used.
 
-<Assets/Github_home_page.png, id=158, 1923.185pt x 996.72375pt>
+<Assets/Github_home_page.png, id=157, 1923.185pt x 996.72375pt>
 File: Assets/Github_home_page.png Graphic file (type png)
 <use Assets/Github_home_page.png>
 Package pdftex.def Info: Assets/Github_home_page.png  used on input line 267.
@@ -1021,7 +1021,7 @@ l.279 \begin{figure}[H]
                        
 Option `H' ignored and `p' used.
 
-<Assets/community.png, id=180, 472.76625pt x 371.3875pt>
+<Assets/community.png, id=179, 472.76625pt x 371.3875pt>
 File: Assets/community.png Graphic file (type png)
 <use Assets/community.png>
 Package pdftex.def Info: Assets/community.png  used on input line 281.
@@ -1038,7 +1038,7 @@ l.292 \begin{figure}[H]
                        
 Option `H' ignored and `p' used.
 
-<Assets/torvalds.png, id=196, 705.63625pt x 475.7775pt>
+<Assets/torvalds.png, id=195, 705.63625pt x 475.7775pt>
 File: Assets/torvalds.png Graphic file (type png)
 <use Assets/torvalds.png>
 Package pdftex.def Info: Assets/torvalds.png  used on input line 294.
@@ -1056,7 +1056,7 @@ LaTeX Warning: Reference `fig:web-dashboard' on page 26 undefined on input line 
 LaTeX Warning: Reference `fig:browser-plugin' on page 26 undefined on input line 302.
 
 [26]
-<Assets/API.png, id=202, 1135.24126pt x 423.5825pt>
+<Assets/API.png, id=201, 1135.24126pt x 423.5825pt>
 File: Assets/API.png Graphic file (type png)
 <use Assets/API.png>
 Package pdftex.def Info: Assets/API.png  used on input line 312.
@@ -1065,7 +1065,7 @@ Package pdftex.def Info: Assets/API.png  used on input line 312.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<Assets/tool.jpg, id=203, 394.76517pt x 398.65065pt>
+<Assets/tool.jpg, id=202, 394.76517pt x 398.65065pt>
 File: Assets/tool.jpg Graphic file (type jpg)
 <use Assets/tool.jpg>
 Package pdftex.def Info: Assets/tool.jpg  used on input line 319.
@@ -1087,7 +1087,7 @@ LaTeX Warning: Citation 'McCulloch1943' on page 33 undefined on input line 358.
 
 LaTeX Warning: Reference `fig:neuronsBasic' on page 34 undefined on input line 363.
 
-<Assets/Theory_and_methods/unnamed.png, id=241, 653.44125pt x 241.90375pt>
+<Assets/Theory_and_methods/unnamed.png, id=240, 653.44125pt x 241.90375pt>
 File: Assets/Theory_and_methods/unnamed.png Graphic file (type png)
 <use Assets/Theory_and_methods/unnamed.png>
 Package pdftex.def Info: Assets/Theory_and_methods/unnamed.png  used on input line 366.
@@ -1099,7 +1099,7 @@ LaTeX Warning: Reference `formula' on page 35 undefined on input line 376.
 
 LaTeX Warning: Reference `fig:summatory' on page 35 undefined on input line 376.
 
-<Assets/Theory_and_methods/unnamed-2.png, id=248, 433.62pt x 224.84pt>
+<Assets/Theory_and_methods/unnamed-2.png, id=247, 433.62pt x 224.84pt>
 File: Assets/Theory_and_methods/unnamed-2.png Graphic file (type png)
 <use Assets/Theory_and_methods/unnamed-2.png>
 Package pdftex.def Info: Assets/Theory_and_methods/unnamed-2.png  used on input line 385.
@@ -1113,7 +1113,7 @@ LaTeX Warning: Reference `Heaviside function' on page 35 undefined on input line
 
 LaTeX Warning: Reference `fig:Perceptron' on page 36 undefined on input line 404.
 
-<Assets/Theory_and_methods/unnamed-3.png, id=264, 466.74374pt x 346.29375pt>
+<Assets/Theory_and_methods/unnamed-3.png, id=263, 466.74374pt x 346.29375pt>
 File: Assets/Theory_and_methods/unnamed-3.png Graphic file (type png)
 <use Assets/Theory_and_methods/unnamed-3.png>
 Package pdftex.def Info: Assets/Theory_and_methods/unnamed-3.png  used on input line 408.
@@ -1186,7 +1186,7 @@ LaTeX Warning: Reference `mae' on page 42 undefined on input line 526.
 
 LaTeX Warning: Reference `fig:Recurrent_neurons' on page 43 undefined on input line 538.
 
-<Assets/Theory_and_methods/unnamed-6.png, id=312, 554.07pt x 252.945pt>
+<Assets/Theory_and_methods/unnamed-6.png, id=311, 554.07pt x 252.945pt>
 File: Assets/Theory_and_methods/unnamed-6.png Graphic file (type png)
 <use Assets/Theory_and_methods/unnamed-6.png>
 Package pdftex.def Info: Assets/Theory_and_methods/unnamed-6.png  used on input line 545.
@@ -1194,7 +1194,7 @@ Package pdftex.def Info: Assets/Theory_and_methods/unnamed-6.png  used on input 
 
 LaTeX Warning: Reference `fig:RNN_multi_layer' on page 43 undefined on input line 550.
 
-<Assets/Theory_and_methods/unnamed-7.png, id=313, 678.535pt x 279.0425pt>
+<Assets/Theory_and_methods/unnamed-7.png, id=312, 678.535pt x 279.0425pt>
 File: Assets/Theory_and_methods/unnamed-7.png Graphic file (type png)
 <use Assets/Theory_and_methods/unnamed-7.png>
 Package pdftex.def Info: Assets/Theory_and_methods/unnamed-7.png  used on input line 554.
@@ -1218,7 +1218,7 @@ LaTeX Warning: Citation 'LSTM' on page 45 undefined on input line 596.
 
 LaTeX Warning: Citation 'LSTM' on page 45 undefined on input line 596.
 
-<Assets/Theory_and_methods/unnamed-8.png, id=331, 760.8425pt x 482.80376pt>
+<Assets/Theory_and_methods/unnamed-8.png, id=330, 760.8425pt x 482.80376pt>
 File: Assets/Theory_and_methods/unnamed-8.png Graphic file (type png)
 <use Assets/Theory_and_methods/unnamed-8.png>
 Package pdftex.def Info: Assets/Theory_and_methods/unnamed-8.png  used on input line 601.
@@ -1248,7 +1248,7 @@ Overfull \hbox (135.26729pt too wide) in paragraph at lines 648--649
 
 LaTeX Warning: Reference `fig:GRU_cell' on page 48 undefined on input line 655.
 
-<Assets/Theory_and_methods/unnamed-9.png, id=350, 596.2275pt x 418.56375pt>
+<Assets/Theory_and_methods/unnamed-9.png, id=349, 596.2275pt x 418.56375pt>
 File: Assets/Theory_and_methods/unnamed-9.png Graphic file (type png)
 <use Assets/Theory_and_methods/unnamed-9.png>
 Package pdftex.def Info: Assets/Theory_and_methods/unnamed-9.png  used on input line 658.
@@ -1277,7 +1277,7 @@ LaTeX Warning: Reference `fig:multi_head_attention' on page 50 undefined on inpu
 
 LaTeX Warning: Reference `fig:transformer_architecture' on page 50 undefined on input line 680.
 
-<Assets/scaled_dot_product_attention.png, id=365, 278.03876pt x 356.33125pt>
+<Assets/scaled_dot_product_attention.png, id=364, 278.03876pt x 356.33125pt>
 File: Assets/scaled_dot_product_attention.png Graphic file (type png)
 <use Assets/scaled_dot_product_attention.png>
 Package pdftex.def Info: Assets/scaled_dot_product_attention.png  used on input line 684.
@@ -1296,7 +1296,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 685--685
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<Assets/multi_head_attention.png, id=366, 347.2975pt x 396.48125pt>
+<Assets/multi_head_attention.png, id=365, 347.2975pt x 396.48125pt>
 File: Assets/multi_head_attention.png Graphic file (type png)
 <use Assets/multi_head_attention.png>
 Package pdftex.def Info: Assets/multi_head_attention.png  used on input line 691.
@@ -1310,7 +1310,7 @@ LaTeX Warning: Citation 'vaswani2017attention' on page 50 undefined on input lin
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<Assets/transformer_architecture.png, id=367, 617.30624pt x 845.1575pt>
+<Assets/transformer_architecture.png, id=366, 617.30624pt x 845.1575pt>
 File: Assets/transformer_architecture.png Graphic file (type png)
 <use Assets/transformer_architecture.png>
 Package pdftex.def Info: Assets/transformer_architecture.png  used on input line 698.
@@ -1399,7 +1399,7 @@ l.814 \begin{figure}[H]
                        
 Option `H' ignored and `p' used.
 
-<Assets/complex_agent.png, id=430, 397.485pt x 543.02875pt>
+<Assets/complex_agent.png, id=429, 397.485pt x 543.02875pt>
 File: Assets/complex_agent.png Graphic file (type png)
 <use Assets/complex_agent.png>
 Package pdftex.def Info: Assets/complex_agent.png  used on input line 816.
@@ -1436,7 +1436,7 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 LaTeX Warning: Citation 'ginart2024' on page 62 undefined on input line 834.
 
 [62]
-<Assets/agent-architecture.png, id=445, 768.8725pt x 338.26375pt>
+<Assets/agent-architecture.png, id=444, 768.8725pt x 338.26375pt>
 File: Assets/agent-architecture.png Graphic file (type png)
 <use Assets/agent-architecture.png>
 Package pdftex.def Info: Assets/agent-architecture.png  used on input line 838.
@@ -1485,7 +1485,7 @@ l.888 \begin{figure} [H]
                         
 Option `H' ignored and `p' used.
 
-<Assets/required_data.png, id=482, 882.29625pt x 322.20375pt>
+<Assets/required_data.png, id=481, 882.29625pt x 322.20375pt>
 File: Assets/required_data.png Graphic file (type png)
 <use Assets/required_data.png>
 Package pdftex.def Info: Assets/required_data.png  used on input line 890.
@@ -1508,7 +1508,7 @@ l.915 \begin{figure}[H]
                        
 Option `H' ignored and `p' used.
 
-<Assets/scrapegraph_integration.png, id=492, 1359.0775pt x 1111.15125pt>
+<Assets/scrapegraph_integration.png, id=491, 1359.0775pt x 1111.15125pt>
 File: Assets/scrapegraph_integration.png Graphic file (type png)
 <use Assets/scrapegraph_integration.png>
 Package pdftex.def Info: Assets/scrapegraph_integration.png  used on input line 917.
@@ -1525,7 +1525,7 @@ l.974 \begin{figure}[H]
                        
 Option `H' ignored and `p' used.
 
-<Assets/smart_scraper.png, id=520, 500.87125pt x 199.74625pt>
+<Assets/smart_scraper.png, id=519, 500.87125pt x 199.74625pt>
 File: Assets/smart_scraper.png Graphic file (type png)
 <use Assets/smart_scraper.png>
 Package pdftex.def Info: Assets/smart_scraper.png  used on input line 976.
@@ -1542,7 +1542,7 @@ l.991 \begin{figure}[H]
                        
 Option `H' ignored and `p' used.
 
-<Assets/smart_scraper_lite.png, id=530, 300.12125pt x 190.7125pt>
+<Assets/smart_scraper_lite.png, id=529, 300.12125pt x 190.7125pt>
 File: Assets/smart_scraper_lite.png Graphic file (type png)
 <use Assets/smart_scraper_lite.png>
 Package pdftex.def Info: Assets/smart_scraper_lite.png  used on input line 993.
@@ -1558,7 +1558,7 @@ l.1005 \begin{figure}[H]
                         
 Option `H' ignored and `p' used.
 
-<Assets/search_graph.png, id=531, 675.52374pt x 514.92375pt>
+<Assets/search_graph.png, id=530, 675.52374pt x 514.92375pt>
 File: Assets/search_graph.png Graphic file (type png)
 <use Assets/search_graph.png>
 Package pdftex.def Info: Assets/search_graph.png  used on input line 1007.
@@ -1574,7 +1574,7 @@ l.1020 \begin{figure}[H]
                         
 Option `H' ignored and `p' used.
 
-<Assets/json_scraper.png, id=532, 489.83pt x 226.8475pt>
+<Assets/json_scraper.png, id=531, 489.83pt x 226.8475pt>
 File: Assets/json_scraper.png Graphic file (type png)
 <use Assets/json_scraper.png>
 Package pdftex.def Info: Assets/json_scraper.png  used on input line 1022.
@@ -1590,7 +1590,7 @@ l.1035 \begin{figure}[H]
                         
 Option `H' ignored and `p' used.
 
-<Assets/csv_scraper.png, id=533, 232.87pt x 113.42375pt>
+<Assets/csv_scraper.png, id=532, 232.87pt x 113.42375pt>
 File: Assets/csv_scraper.png Graphic file (type png)
 <use Assets/csv_scraper.png>
 Package pdftex.def Info: Assets/csv_scraper.png  used on input line 1037.
@@ -1610,7 +1610,7 @@ l.1047 \begin{figure}[H]
                         
 Option `H' ignored and `p' used.
 
-<Assets/multi_graph.png, id=542, 710.655pt x 528.97626pt>
+<Assets/multi_graph.png, id=541, 710.655pt x 528.97626pt>
 File: Assets/multi_graph.png Graphic file (type png)
 <use Assets/multi_graph.png>
 Package pdftex.def Info: Assets/multi_graph.png  used on input line 1049.
@@ -1627,7 +1627,7 @@ l.1072 \begin{figure}[H]
                         
 Option `H' ignored and `p' used.
 
-<Assets/schema_integration.png, id=549, 1324.95pt x 1339.0025pt>
+<Assets/schema_integration.png, id=548, 1324.95pt x 1339.0025pt>
 File: Assets/schema_integration.png Graphic file (type png)
 <use Assets/schema_integration.png>
 Package pdftex.def Info: Assets/schema_integration.png  used on input line 1074.
@@ -1647,12 +1647,23 @@ l.1088 \begin{figure}[H]
                         
 Option `H' ignored and `p' used.
 
-<Assets/code_generator_scripts.png, id=555, 550.055pt x 509.905pt>
+<Assets/code_generator_scripts.png, id=554, 550.055pt x 509.905pt>
 File: Assets/code_generator_scripts.png Graphic file (type png)
 <use Assets/code_generator_scripts.png>
 Package pdftex.def Info: Assets/code_generator_scripts.png  used on input line 1090.
 (pdftex.def)             Requested size: 426.79135pt x 395.65468pt.
-<Assets/generate_script_graph.png, id=556, 438.63875pt x 178.6675pt>
+
+./chapters/chap01.tex:1105: LaTeX Error: Unknown float option `H'.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1105 \begin{figure}[H!]
+                         
+Option `H' ignored and `p' used.
+
+<Assets/generate_script_graph.png, id=555, 438.63875pt x 178.6675pt>
 File: Assets/generate_script_graph.png Graphic file (type png)
 <use Assets/generate_script_graph.png>
 Package pdftex.def Info: Assets/generate_script_graph.png  used on input line 1107.
@@ -1667,11 +1678,11 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.1125 \begin{figure}[H]
-                        
+l.1125 \begin{figure}[H!]
+                         
 Option `H' ignored and `p' used.
 
-<Assets/code_generator.png, id=557, 894.34125pt x 588.1975pt>
+<Assets/code_generator.png, id=556, 894.34125pt x 588.1975pt>
 File: Assets/code_generator.png Graphic file (type png)
 <use Assets/code_generator.png>
 Package pdftex.def Info: Assets/code_generator.png  used on input line 1129.
@@ -1684,11 +1695,11 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.1143 \begin{figure}[H]
-                        
+l.1143 \begin{figure}[H!]
+                         
 Option `H' ignored and `p' used.
 
-<Assets/posthog_dashboard.png, id=564, 1648.1575pt x 958.58125pt>
+<Assets/posthog_dashboard.png, id=563, 1648.1575pt x 958.58125pt>
 File: Assets/posthog_dashboard.png Graphic file (type png)
 <use Assets/posthog_dashboard.png>
 Package pdftex.def Info: Assets/posthog_dashboard.png  used on input line 1145.
@@ -1739,7 +1750,7 @@ l.1202 \begin{figure}[H]
                         
 Option `H' ignored and `p' used.
 
-<Assets/countries.jpg, id=577, 1284.8pt x 503.8825pt>
+<Assets/countries.jpg, id=576, 1284.8pt x 503.8825pt>
 File: Assets/countries.jpg Graphic file (type jpg)
 <use Assets/countries.jpg>
 Package pdftex.def Info: Assets/countries.jpg  used on input line 1204.
@@ -1755,7 +1766,7 @@ l.1209 \begin{figure}[H]
                         
 Option `H' ignored and `p' used.
 
-<Assets/websites.jpg, id=578, 1193.45876pt x 592.2125pt>
+<Assets/websites.jpg, id=577, 1193.45876pt x 592.2125pt>
 File: Assets/websites.jpg Graphic file (type jpg)
 <use Assets/websites.jpg>
 Package pdftex.def Info: Assets/websites.jpg  used on input line 1211.
@@ -1806,7 +1817,7 @@ l.1250 \begin{figure}[H]
                         
 Option `H' ignored and `p' used.
 
-<Assets/library.png, id=596, 1069.9975pt x 1116.17pt>
+<Assets/library.png, id=595, 1069.9975pt x 1116.17pt>
 File: Assets/library.png Graphic file (type png)
 <use Assets/library.png>
 Package pdftex.def Info: Assets/library.png  used on input line 1252.
@@ -1828,7 +1839,7 @@ l.1266 \begin{figure}[H]
                         
 Option `H' ignored and `p' used.
 
-<Assets/api.png, id=608, 1135.24126pt x 423.5825pt>
+<Assets/api.png, id=607, 1135.24126pt x 423.5825pt>
 File: Assets/api.png Graphic file (type png)
 <use Assets/api.png>
 Package pdftex.def Info: Assets/api.png  used on input line 1268.
@@ -1845,7 +1856,7 @@ l.1309 \begin{figure}[H]
                         
 Option `H' ignored and `p' used.
 
-<Assets/wired.png, id=617, 758.33313pt x 435.12563pt>
+<Assets/wired.png, id=616, 758.33313pt x 435.12563pt>
 File: Assets/wired.png Graphic file (type png)
 <use Assets/wired.png>
 Package pdftex.def Info: Assets/wired.png  used on input line 1311.
@@ -1864,7 +1875,7 @@ l.1327 \begin{figure}[H]
                         
 Option `H' ignored and `p' used.
 
-<Assets/result.png, id=618, 2055.68pt x 855.195pt>
+<Assets/result.png, id=617, 2055.68pt x 855.195pt>
 File: Assets/result.png Graphic file (type png)
 <use Assets/result.png>
 Package pdftex.def Info: Assets/result.png  used on input line 1329.
@@ -1893,7 +1904,7 @@ l.1398 \begin{figure}[H]
                         
 Option `H' ignored and `p' used.
 
-<Assets/smart_scraper_wired.png, id=648, 1039.885pt x 1179.40625pt>
+<Assets/smart_scraper_wired.png, id=647, 1039.885pt x 1179.40625pt>
 File: Assets/smart_scraper_wired.png Graphic file (type png)
 <use Assets/smart_scraper_wired.png>
 Package pdftex.def Info: Assets/smart_scraper_wired.png  used on input line 1400.
@@ -1909,7 +1920,7 @@ l.1405 \begin{figure}[H]
                         
 Option `H' ignored and `p' used.
 
-<Assets/beautifousoup.png, id=649, 1823.81375pt x 1465.475pt>
+<Assets/beautifousoup.png, id=648, 1823.81375pt x 1465.475pt>
 File: Assets/beautifousoup.png Graphic file (type png)
 <use Assets/beautifousoup.png>
 Package pdftex.def Info: Assets/beautifousoup.png  used on input line 1407.
@@ -1941,7 +1952,7 @@ l.1553 \begin{figure}[H]
                         
 Option `H' ignored and `p' used.
 
-<Assets/webapp.png, id=790, 1157.32375pt x 745.78625pt>
+<Assets/webapp.png, id=789, 1157.32375pt x 745.78625pt>
 File: Assets/webapp.png Graphic file (type png)
 <use Assets/webapp.png>
 Package pdftex.def Info: Assets/webapp.png  used on input line 1555.
@@ -1960,7 +1971,7 @@ l.1562 \begin{figure}[H]
                         
 Option `H' ignored and `p' used.
 
-<Assets/growing_companies.png, id=791, 1189.44376pt x 681.54625pt>
+<Assets/growing_companies.png, id=790, 1189.44376pt x 681.54625pt>
 File: Assets/growing_companies.png Graphic file (type png)
 <use Assets/growing_companies.png>
 Package pdftex.def Info: Assets/growing_companies.png  used on input line 1564.
@@ -1979,7 +1990,7 @@ l.1572 \begin{figure}[H]
                         
 Option `H' ignored and `p' used.
 
-<Assets/dashboard_1.png, id=792, 1515.6625pt x 866.23625pt>
+<Assets/dashboard_1.png, id=791, 1515.6625pt x 866.23625pt>
 File: Assets/dashboard_1.png Graphic file (type png)
 <use Assets/dashboard_1.png>
 Package pdftex.def Info: Assets/dashboard_1.png  used on input line 1574.
@@ -1998,7 +2009,7 @@ l.1580 \begin{figure}[H]
                         
 Option `H' ignored and `p' used.
 
-<Assets/dashboard_2.png, id=793, 1516.66624pt x 866.23625pt>
+<Assets/dashboard_2.png, id=792, 1516.66624pt x 866.23625pt>
 File: Assets/dashboard_2.png Graphic file (type png)
 <use Assets/dashboard_2.png>
 Package pdftex.def Info: Assets/dashboard_2.png  used on input line 1582.
@@ -2017,7 +2028,7 @@ l.1588 \begin{figure}[H]
                         
 Option `H' ignored and `p' used.
 
-<Assets/dashboard_3.png, id=794, 1515.6625pt x 873.2625pt>
+<Assets/dashboard_3.png, id=793, 1515.6625pt x 873.2625pt>
 File: Assets/dashboard_3.png Graphic file (type png)
 <use Assets/dashboard_3.png>
 Package pdftex.def Info: Assets/dashboard_3.png  used on input line 1590.
@@ -2034,13 +2045,13 @@ LaTeX Warning: Citation 'jiang2023' on page 113 undefined on input line 1602.
 
 ) [113]
 
-/Users/marcovinciguerra/github/master-thesis-scraping/latex/main.tex:40: Package biblatex Error: '\bibliographystyle' invalid for 'biblatex'.
+/Users/marcovinciguerra/github/master-thesis-scraping/latex/main.tex:39: Package biblatex Error: '\bibliographystyle' invalid for 'biblatex'.
 
 See the biblatex package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.40 \bibliographystyle{siam}
+l.39 \bibliographystyle{siam}
                              
 Use the package option 'style' instead.
 I'm ignoring this command.
@@ -2048,37 +2059,37 @@ I'm ignoring this command.
 [114] [115 <./Assets/dashboard_3.png>] [116
 
 ] [117] [118]
-Underfull \hbox (badness 2762) in paragraph at lines 92--93
+Underfull \hbox (badness 2762) in paragraph at lines 91--92
 []\T1/cmr/m/n/12 Big Data Wire. (2024, March 6). \T1/cmr/m/it/12 GenAI doesn't need big-ger LLMs,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 92--93
+Underfull \hbox (badness 10000) in paragraph at lines 91--92
 \T1/cmr/m/it/12 it needs bet-ter data\T1/cmr/m/n/12 . []$\T1/cmtt/m/n/12 https : / / www . bigdatawire . com / 2024 / 03 / 06 /
  []
 
 
-Underfull \hbox (badness 8132) in paragraph at lines 95--96
+Underfull \hbox (badness 8132) in paragraph at lines 94--95
 []\T1/cmr/m/n/12 PrivacyOS. (2024). \T1/cmr/m/it/12 The 95% of sanc-tions is trig-gered by an of-
  []
 
 
-Underfull \hbox (badness 3965) in paragraph at lines 95--96
+Underfull \hbox (badness 3965) in paragraph at lines 94--95
 \T1/cmr/m/it/12 fense on per-sonal data and con-sents\T1/cmr/m/n/12 . []$\T1/cmtt/m/n/12 https : / / www . privacyos . com / en /
  []
 
 
-Overfull \hbox (73.34222pt too wide) in paragraph at lines 95--96
+Overfull \hbox (73.34222pt too wide) in paragraph at lines 94--95
 \T1/cmtt/m/n/12 the-[]95-[]of-[]sanctions-[]is-[]triggered-[]by-[]an-[]offense-[]on-[]personal-[]data-[]and-[]consents/$[] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 115--116
+Underfull \hbox (badness 10000) in paragraph at lines 114--115
 []\T1/cmr/m/n/12 CiteSeerX. (2024). \T1/cmr/m/it/12 The Grow-ing Value of Pri-vate Data\T1/cmr/m/n/12 . []$\T1/cmtt/m/n/12 https :
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 115--116
+Underfull \hbox (badness 10000) in paragraph at lines 114--115
 \T1/cmtt/m/n/12 / / citeseerx . ist . psu . edu / document ? repid = rep1 & type = pdf & doi =
  []
 
@@ -2119,11 +2130,11 @@ Here is how much of TeX's memory you used:
  572532 words of font info for 66 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  81i,12n,95p,1145b,1801s stack positions out of 10000i,1000n,20000p,200000b,200000s
-</usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx8.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfbx1728.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfbx2488.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfit1200.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfrm1440.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfrm2074.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfti1200.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sftt1200.pfb>
-Output written on main.pdf (126 pages, 10388200 bytes).
+</usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx8.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfbx1728.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfbx2488.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfit1200.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfrm1440.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfti1200.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sftt1200.pfb>
+Output written on main.pdf (126 pages, 10377814 bytes).
 PDF statistics:
- 1074 PDF objects out of 1200 (max. 8388607)
- 809 compressed objects within 9 object streams
+ 1069 PDF objects out of 1200 (max. 8388607)
+ 806 compressed objects within 9 object streams
  365 named destinations out of 1000 (max. 500000)
  226 words of extra memory for PDF output out of 10000 (max. 10000000)
 

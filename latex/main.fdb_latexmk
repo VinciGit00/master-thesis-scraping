@@ -1,13 +1,13 @@
 # Fdb version 4
-["biber main"] 1739111825.39448 "main.bcf" "main.bbl" "main" 1739111860.03527 0
+["biber main"] 1739265071.98408 "main.bcf" "main.bbl" "main" 1739265292.75926 0
   "bibliography.bib" 1738933534 371 8155891d5a63f0a3cbdb1f0f48216a27 ""
-  "main.bcf" 1739111859.85439 112339 e1647460a69bc8c35e5a4ed46ad2d670 "pdflatex"
+  "main.bcf" 1739265292.58196 112339 e1647460a69bc8c35e5a4ed46ad2d670 "pdflatex"
   (generated)
   "main.bbl"
   "main.blg"
   (rewritten before read)
-["pdflatex"] 1739111843.96938 "/Users/marcovinciguerra/github/master-thesis-scraping/latex/main.tex" "main.pdf" "main" 1739111860.03566 2
-  "/Users/marcovinciguerra/github/master-thesis-scraping/latex/main.tex" 1739030705.84693 9186 f79605660bf9f7ce344a7497490d04a9 ""
+["pdflatex"] 1739265276.97723 "/Users/marcovinciguerra/github/master-thesis-scraping/latex/main.tex" "main.pdf" "main" 1739265292.75956 2
+  "/Users/marcovinciguerra/github/master-thesis-scraping/latex/main.tex" 1739264432.10326 9176 07f2093a5c6f67f437564e0206200d62 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc" 1136849721 2971 def0b6c1f0b107b3b936def894055589 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc" 1136849721 2900 1537cc8184ad1792082cd229ecc269f4 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
@@ -58,7 +58,6 @@
   "/usr/local/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfit1200.pfb" 1215737283 156727 9b0ba8fddba6d5b31c1193af669d35e8 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb" 1215737283 136101 f533469f523533d38317ab5729d00c8a ""
   "/usr/local/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfrm1440.pfb" 1215737283 131078 d96015a2fa5c350129e933ca070b2484 ""
-  "/usr/local/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfrm2074.pfb" 1215737283 131290 ea265c7de37664eae04a6f91a1f7a51f ""
   "/usr/local/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfti1200.pfb" 1215737283 198221 ca5aa71411090ef358a6cc78b7458365 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sftt1200.pfb" 1215737283 167085 68de377d2744a68a88fa40a1f610615a ""
   "/usr/local/texlive/2024/texmf-dist/tex/context/base/mkii/supp-pdf.mkii" 1461363279 71627 94eb9990bed73c364d7f53f960cc8c5b ""
@@ -197,12 +196,12 @@
   "Assets/webapp.png" 1738933536 684163 09e6ea418130ff56cd1a6a3d50737765 ""
   "Assets/websites.jpg" 1738933536 74594 02a98a65ba18c0105ee6bfda2825cb08 ""
   "Assets/wired.png" 1738933536 1123854 9b4e6a62dff2b47b86cdb16c51e71891 ""
-  "chapters/chap01.tex" 1739111824.50183 163559 ff92fc5bd954172332e6e63280afd79c ""
-  "main.aux" 1739111859.84768 38253 00917097de884b1d76abd0c3be373890 "pdflatex"
-  "main.bbl" 1739111827.89635 466 ee04f40f768daeed26442158e95aba61 "biber main"
-  "main.out" 1739111859.85324 27058 ca6774ecd0e6e002d454768094d1683a "pdflatex"
-  "main.tex" 1739030705.84693 9186 f79605660bf9f7ce344a7497490d04a9 ""
-  "main.toc" 1739111859.85524 12446 8d6a7f75f8da5bccf72b502895511ef4 "pdflatex"
+  "chapters/chap01.tex" 1739265260.68863 163532 e762eec046f7c43cb53e87e4def14dab ""
+  "main.aux" 1739265292.5752 38186 0bf77e3dfd0685fb4f0db52fd815587f "pdflatex"
+  "main.bbl" 1739265085.08311 466 ee04f40f768daeed26442158e95aba61 "biber main"
+  "main.out" 1739265292.58091 27058 ca6774ecd0e6e002d454768094d1683a "pdflatex"
+  "main.tex" 1739264432.10326 9176 07f2093a5c6f67f437564e0206200d62 ""
+  "main.toc" 1739265292.58284 12446 8d6a7f75f8da5bccf72b502895511ef4 "pdflatex"
   "unibg.cls" 1738933534 5634 132e51829b15055a4b71c4af484f3e00 ""
   (generated)
   "main.aux"
