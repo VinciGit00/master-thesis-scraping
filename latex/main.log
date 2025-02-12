@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2025.2.8)  11 FEB 2025 14:54
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2025.2.8)  12 FEB 2025 12:17
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -939,169 +939,172 @@ LaTeX Warning: Citation 'darmawan2022evaluating' on page 20 undefined on input l
 
 ]
 
-LaTeX Warning: Reference `fig:yoso' on page 22 undefined on input line 235.
+LaTeX Warning: Reference `fig:yoso' on page 22 undefined on input line 238.
 
 <Assets/YOSO.png, id=154, 568.1225pt x 347.2975pt>
 File: Assets/YOSO.png Graphic file (type png)
 <use Assets/YOSO.png>
-Package pdftex.def Info: Assets/YOSO.png  used on input line 247.
+Package pdftex.def Info: Assets/YOSO.png  used on input line 250.
 (pdftex.def)             Requested size: 397.68303pt x 243.10658pt.
 
-./chapters/chap01.tex:253: LaTeX Error: Unicode character ​ (U+200B)
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+./chapters/chap01.tex:256: LaTeX Error: Unicode character ​ (U+200B)
                not set up for use with LaTeX.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.253 ...(Msc computer science, Università Ca'​
+l.256 ...(Msc computer science, Università Ca'​
                                                    Foscari Venezia).
 You may provide a definition with
 \DeclareUnicodeCharacter 
 
-[22 <./Assets/YOSO.png>]
-<Assets/scrapegraphai_logo.png, id=167, 335.00156pt x 284.56313pt>
+[22]
+<Assets/scrapegraphai_logo.png, id=165, 335.00156pt x 284.56313pt>
 File: Assets/scrapegraphai_logo.png Graphic file (type png)
 <use Assets/scrapegraphai_logo.png>
-Package pdftex.def Info: Assets/scrapegraphai_logo.png  used on input line 258.
+Package pdftex.def Info: Assets/scrapegraphai_logo.png  used on input line 261.
 (pdftex.def)             Requested size: 213.39568pt x 181.26437pt.
-<Assets/Github_home_page.png, id=168, 1923.185pt x 996.72375pt>
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<Assets/Github_home_page.png, id=166, 1923.185pt x 996.72375pt>
 File: Assets/Github_home_page.png Graphic file (type png)
 <use Assets/Github_home_page.png>
-Package pdftex.def Info: Assets/Github_home_page.png  used on input line 267.
+Package pdftex.def Info: Assets/Github_home_page.png  used on input line 270.
 (pdftex.def)             Requested size: 426.79135pt x 221.181pt.
 
-
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
-LaTeX Warning: Citation 'David2008' on page 23 undefined on input line 273.
+LaTeX Warning: Citation 'David2008' on page 23 undefined on input line 276.
 
-[23 <./Assets/scrapegraphai_logo.png>]
+[23 <./Assets/YOSO.png>]
 
-LaTeX Warning: Citation 'Tamburri2019' on page 24 undefined on input line 275.
+LaTeX Warning: Citation 'Tamburri2019' on page 24 undefined on input line 278.
 
-<Assets/community.png, id=180, 472.76625pt x 371.3875pt>
+
+Underfull \vbox (badness 1424) has occurred while \output is active []
+
+ [24 <./Assets/scrapegraphai_logo.png> <./Assets/Github_home_page.png>]
+<Assets/community.png, id=186, 472.76625pt x 371.3875pt>
 File: Assets/community.png Graphic file (type png)
 <use Assets/community.png>
-Package pdftex.def Info: Assets/community.png  used on input line 281.
+Package pdftex.def Info: Assets/community.png  used on input line 284.
 (pdftex.def)             Requested size: 213.39568pt x 167.6385pt.
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [24 <./Assets/Github_home_page.png>] [25 <./Assets/community.png>]
+ [25 <./Assets/community.png>]
 <Assets/torvalds.png, id=195, 705.63625pt x 475.7775pt>
 File: Assets/torvalds.png Graphic file (type png)
 <use Assets/torvalds.png>
-Package pdftex.def Info: Assets/torvalds.png  used on input line 294.
+Package pdftex.def Info: Assets/torvalds.png  used on input line 297.
 (pdftex.def)             Requested size: 213.39568pt x 143.88138pt.
+ [26 <./Assets/torvalds.png>]
+
+LaTeX Warning: Reference `fig:web-dashboard' on page 27 undefined on input line 305.
 
 
-LaTeX Warning: Reference `fig:web-dashboard' on page 26 undefined on input line 302.
+LaTeX Warning: Reference `fig:browser-plugin' on page 27 undefined on input line 305.
 
 
-LaTeX Warning: Reference `fig:browser-plugin' on page 26 undefined on input line 302.
+LaTeX Warning: Reference `fig:web-dashboard' on page 27 undefined on input line 305.
 
 
-LaTeX Warning: Reference `fig:web-dashboard' on page 26 undefined on input line 302.
+LaTeX Warning: Reference `fig:browser-plugin' on page 27 undefined on input line 305.
 
 
-LaTeX Warning: Reference `fig:browser-plugin' on page 26 undefined on input line 302.
+Underfull \vbox (badness 3514) has occurred while \output is active []
 
-[26 <./Assets/torvalds.png>]
-<Assets/API.png, id=203, 1135.24126pt x 423.5825pt>
+ [27]
+<Assets/API.png, id=207, 1135.24126pt x 423.5825pt>
 File: Assets/API.png Graphic file (type png)
 <use Assets/API.png>
-Package pdftex.def Info: Assets/API.png  used on input line 312.
+Package pdftex.def Info: Assets/API.png  used on input line 315.
 (pdftex.def)             Requested size: 384.1096pt x 143.3181pt.
-<Assets/tool.jpg, id=204, 394.76517pt x 398.65065pt>
+<Assets/tool.jpg, id=208, 394.76517pt x 398.65065pt>
 File: Assets/tool.jpg Graphic file (type jpg)
 <use Assets/tool.jpg>
-Package pdftex.def Info: Assets/tool.jpg  used on input line 319.
+Package pdftex.def Info: Assets/tool.jpg  used on input line 322.
 (pdftex.def)             Requested size: 320.0935pt x 323.25198pt.
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-[27 <./Assets/API.png>] [28 <./Assets/tool.jpg>] [29] [30
-
-]
+ [28 <./Assets/API.png> <./Assets/tool.jpg>] [29] [30]
 Chapter 2.
 
-LaTeX Warning: Citation 'McCulloch1943' on page 31 undefined on input line 358.
+LaTeX Warning: Citation 'McCulloch1943' on page 31 undefined on input line 362.
 
 
-LaTeX Warning: Citation 'McCulloch1943' on page 31 undefined on input line 358.
+LaTeX Warning: Citation 'McCulloch1943' on page 31 undefined on input line 362.
 
-[31]
+[31
 
-LaTeX Warning: Reference `fig:neuronsBasic' on page 32 undefined on input line 363.
+]
+
+LaTeX Warning: Reference `fig:neuronsBasic' on page 32 undefined on input line 367.
 
 <Assets/Theory_and_methods/unnamed.png, id=232, 653.44125pt x 241.90375pt>
 File: Assets/Theory_and_methods/unnamed.png Graphic file (type png)
 <use Assets/Theory_and_methods/unnamed.png>
-Package pdftex.def Info: Assets/Theory_and_methods/unnamed.png  used on input line 366.
+Package pdftex.def Info: Assets/Theory_and_methods/unnamed.png  used on input line 370.
 (pdftex.def)             Requested size: 426.78574pt x 157.99594pt.
 [32 <./Assets/Theory_and_methods/unnamed.png>]
 
-LaTeX Warning: Reference `formula' on page 33 undefined on input line 376.
+LaTeX Warning: Reference `formula' on page 33 undefined on input line 380.
 
 
-LaTeX Warning: Reference `fig:summatory' on page 33 undefined on input line 376.
+LaTeX Warning: Reference `fig:summatory' on page 33 undefined on input line 380.
 
 <Assets/Theory_and_methods/unnamed-2.png, id=239, 433.62pt x 224.84pt>
 File: Assets/Theory_and_methods/unnamed-2.png Graphic file (type png)
 <use Assets/Theory_and_methods/unnamed-2.png>
-Package pdftex.def Info: Assets/Theory_and_methods/unnamed-2.png  used on input line 385.
+Package pdftex.def Info: Assets/Theory_and_methods/unnamed-2.png  used on input line 389.
 (pdftex.def)             Requested size: 426.81056pt x 221.30917pt.
 
-LaTeX Warning: Reference `Heaviside function' on page 33 undefined on input line 390.
+LaTeX Warning: Reference `Heaviside function' on page 33 undefined on input line 394.
 
 [33
 
  <./Assets/Theory_and_methods/unnamed-2.png>]
 
-LaTeX Warning: Reference `fig:Perceptron' on page 34 undefined on input line 404.
+LaTeX Warning: Reference `fig:Perceptron' on page 34 undefined on input line 408.
 
 <Assets/Theory_and_methods/unnamed-3.png, id=255, 466.74374pt x 346.29375pt>
 File: Assets/Theory_and_methods/unnamed-3.png Graphic file (type png)
 <use Assets/Theory_and_methods/unnamed-3.png>
-Package pdftex.def Info: Assets/Theory_and_methods/unnamed-3.png  used on input line 408.
+Package pdftex.def Info: Assets/Theory_and_methods/unnamed-3.png  used on input line 412.
 (pdftex.def)             Requested size: 426.80995pt x 316.66544pt.
 
-LaTeX Warning: Reference `bohfoormulas' on page 34 undefined on input line 414.
+LaTeX Warning: Reference `bohfoormulas' on page 34 undefined on input line 418.
 
 [34 <./Assets/Theory_and_methods/unnamed-3.png>]
 
-LaTeX Warning: Citation 'Morris1999' on page 35 undefined on input line 429.
+LaTeX Warning: Citation 'Morris1999' on page 35 undefined on input line 433.
 
 
-LaTeX Warning: Citation 'Morris1999' on page 35 undefined on input line 429.
+LaTeX Warning: Citation 'Morris1999' on page 35 undefined on input line 433.
 
 
-LaTeX Warning: Reference `bohfoormula' on page 35 undefined on input line 429.
+LaTeX Warning: Reference `bohfoormula' on page 35 undefined on input line 433.
 
 
-LaTeX Warning: Command \^ invalid in math mode on input line 432.
+LaTeX Warning: Command \^ invalid in math mode on input line 436.
 
-./chapters/chap01.tex:432: Please use \mathaccent for accents in math mode.
+./chapters/chap01.tex:436: Please use \mathaccent for accents in math mode.
 \add@accent ... \let \ignorespaces \relax \accent 
                                                   #1 #2\egroup \ifmmode \els...
-l.432 ...xt step)} = w _{i, j }+ \eta( y _{j} - ŷ
+l.436 ...xt step)} = w _{i, j }+ \eta( y _{j} - ŷ
                                                   _{j}) x_{i}
 I'm changing \accent to \mathaccent here; wish me luck.
 (Accents are not the same in formulas as they are in text.)
 
 
-LaTeX Warning: Command \^ invalid in math mode on input line 439.
+LaTeX Warning: Command \^ invalid in math mode on input line 443.
 
-./chapters/chap01.tex:439: Please use \mathaccent for accents in math mode.
+./chapters/chap01.tex:443: Please use \mathaccent for accents in math mode.
 \add@accent ... \let \ignorespaces \relax \accent 
                                                   #1 #2\egroup \ifmmode \els...
-l.439     \item $ŷ
+l.443     \item $ŷ
                     _{j}$ is the interpolated value of the output.
 I'm changing \accent to \mathaccent here; wish me luck.
 (Accents are not the same in formulas as they are in text.)
@@ -1110,139 +1113,136 @@ I'm changing \accent to \mathaccent here; wish me luck.
 
 ]
 
-LaTeX Warning: Reference `percy' on page 38 undefined on input line 477.
+LaTeX Warning: Reference `percy' on page 38 undefined on input line 481.
 
 [38]
 
-LaTeX Warning: Citation 'RossStat' on page 39 undefined on input line 495.
+LaTeX Warning: Citation 'RossStat' on page 39 undefined on input line 499.
 
 
-LaTeX Warning: Reference `ssres' on page 39 undefined on input line 497.
+LaTeX Warning: Reference `ssres' on page 39 undefined on input line 501.
 
 
-LaTeX Warning: Reference `sstot' on page 39 undefined on input line 503.
+LaTeX Warning: Reference `sstot' on page 39 undefined on input line 507.
 
 [39]
 
-LaTeX Warning: Reference `r2' on page 40 undefined on input line 509.
+LaTeX Warning: Reference `r2' on page 40 undefined on input line 513.
 
 
-LaTeX Warning: Citation 'RossStat' on page 40 undefined on input line 516.
+LaTeX Warning: Citation 'RossStat' on page 40 undefined on input line 520.
 
 
-LaTeX Warning: Reference `rmse' on page 40 undefined on input line 517.
+LaTeX Warning: Reference `rmse' on page 40 undefined on input line 521.
 
 
-LaTeX Warning: Reference `mae' on page 40 undefined on input line 526.
+LaTeX Warning: Reference `mae' on page 40 undefined on input line 530.
 
 [40]
 
-LaTeX Warning: Reference `fig:Recurrent_neurons' on page 41 undefined on input line 538.
+LaTeX Warning: Reference `fig:Recurrent_neurons' on page 41 undefined on input line 542.
 
 <Assets/Theory_and_methods/unnamed-6.png, id=303, 554.07pt x 252.945pt>
 File: Assets/Theory_and_methods/unnamed-6.png Graphic file (type png)
 <use Assets/Theory_and_methods/unnamed-6.png>
-Package pdftex.def Info: Assets/Theory_and_methods/unnamed-6.png  used on input line 545.
+Package pdftex.def Info: Assets/Theory_and_methods/unnamed-6.png  used on input line 549.
 (pdftex.def)             Requested size: 426.79585pt x 194.84158pt.
 
-LaTeX Warning: Reference `fig:RNN_multi_layer' on page 41 undefined on input line 550.
+LaTeX Warning: Reference `fig:RNN_multi_layer' on page 41 undefined on input line 554.
 
 <Assets/Theory_and_methods/unnamed-7.png, id=304, 678.535pt x 279.0425pt>
 File: Assets/Theory_and_methods/unnamed-7.png Graphic file (type png)
 <use Assets/Theory_and_methods/unnamed-7.png>
-Package pdftex.def Info: Assets/Theory_and_methods/unnamed-7.png  used on input line 554.
+Package pdftex.def Info: Assets/Theory_and_methods/unnamed-7.png  used on input line 558.
 (pdftex.def)             Requested size: 426.78561pt x 175.51242pt.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
-LaTeX Warning: Reference `longformula' on page 41 undefined on input line 559.
+LaTeX Warning: Reference `longformula' on page 41 undefined on input line 563.
 
 [41
 
  <./Assets/Theory_and_methods/unnamed-6.png>]
 
-LaTeX Warning: Reference `longlongformula' on page 42 undefined on input line 568.
+LaTeX Warning: Reference `longlongformula' on page 42 undefined on input line 572.
 
 [42 <./Assets/Theory_and_methods/unnamed-7.png>]
 
-LaTeX Warning: Citation 'LSTM' on page 43 undefined on input line 596.
+LaTeX Warning: Citation 'LSTM' on page 43 undefined on input line 600.
 
 
-LaTeX Warning: Citation 'LSTM' on page 43 undefined on input line 596.
+LaTeX Warning: Citation 'LSTM' on page 43 undefined on input line 600.
 
 <Assets/Theory_and_methods/unnamed-8.png, id=321, 760.8425pt x 482.80376pt>
 File: Assets/Theory_and_methods/unnamed-8.png Graphic file (type png)
 <use Assets/Theory_and_methods/unnamed-8.png>
-Package pdftex.def Info: Assets/Theory_and_methods/unnamed-8.png  used on input line 601.
+Package pdftex.def Info: Assets/Theory_and_methods/unnamed-8.png  used on input line 605.
 (pdftex.def)             Requested size: 426.8003pt x 270.83238pt.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
-LaTeX Warning: Reference `fig:LSTM_cell' on page 43 undefined on input line 606.
+LaTeX Warning: Reference `fig:LSTM_cell' on page 43 undefined on input line 610.
 
 [43] [44 <./Assets/Theory_and_methods/unnamed-8.png>]
 
-LaTeX Warning: Reference `systemformula' on page 45 undefined on input line 621.
+LaTeX Warning: Reference `systemformula' on page 45 undefined on input line 625.
 
 [45]
 
-LaTeX Warning: Citation 'DBLP:journals/corr/ChoMGBSB14' on page 46 undefined on input line 648.
+LaTeX Warning: Citation 'DBLP:journals/corr/ChoMGBSB14' on page 46 undefined on input line 652.
 
 
-LaTeX Warning: Citation 'DBLP:journals/corr/ChoMGBSB14' on page 46 undefined on input line 648.
+LaTeX Warning: Citation 'DBLP:journals/corr/ChoMGBSB14' on page 46 undefined on input line 652.
 
 
-Overfull \hbox (135.26729pt too wide) in paragraph at lines 648--649
+Overfull \hbox (135.26729pt too wide) in paragraph at lines 652--653
 \T1/cmr/m/n/12 The Gated Re-cur-rent Unit (GRU) cells were first pro-posed in 2014 by []
  []
 
 
-LaTeX Warning: Reference `fig:GRU_cell' on page 46 undefined on input line 655.
+LaTeX Warning: Reference `fig:GRU_cell' on page 46 undefined on input line 659.
 
 <Assets/Theory_and_methods/unnamed-9.png, id=341, 596.2275pt x 418.56375pt>
 File: Assets/Theory_and_methods/unnamed-9.png Graphic file (type png)
 <use Assets/Theory_and_methods/unnamed-9.png>
-Package pdftex.def Info: Assets/Theory_and_methods/unnamed-9.png  used on input line 658.
+Package pdftex.def Info: Assets/Theory_and_methods/unnamed-9.png  used on input line 662.
 (pdftex.def)             Requested size: 426.79071pt x 299.61569pt.
 [46
 
  <./Assets/Theory_and_methods/unnamed-9.png>]
 
-LaTeX Warning: Citation 'hadi2024' on page 47 undefined on input line 666.
+LaTeX Warning: Citation 'hadi2024' on page 47 undefined on input line 672.
 
-
-LaTeX Warning: Citation 'vaswani2017attention' on page 47 undefined on input line 676.
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [47
+[47
 
 ]
 
-LaTeX Warning: Reference `fig:scaled_attention' on page 48 undefined on input line 678.
+LaTeX Warning: Citation 'vaswani2017attention' on page 48 undefined on input line 682.
 
 
-LaTeX Warning: Reference `fig:multi_head_attention' on page 48 undefined on input line 678.
+LaTeX Warning: Reference `fig:scaled_attention' on page 48 undefined on input line 684.
 
 
-LaTeX Warning: Reference `fig:transformer_architecture' on page 48 undefined on input line 680.
+LaTeX Warning: Reference `fig:multi_head_attention' on page 48 undefined on input line 684.
+
+
+LaTeX Warning: Reference `fig:transformer_architecture' on page 48 undefined on input line 686.
 
 <Assets/scaled_dot_product_attention.png, id=355, 278.03876pt x 356.33125pt>
 File: Assets/scaled_dot_product_attention.png Graphic file (type png)
 <use Assets/scaled_dot_product_attention.png>
-Package pdftex.def Info: Assets/scaled_dot_product_attention.png  used on input line 684.
+Package pdftex.def Info: Assets/scaled_dot_product_attention.png  used on input line 690.
 (pdftex.def)             Requested size: 234.73654pt x 300.83861pt.
 
-LaTeX Warning: Citation 'vaswani2017attention' on page 48 undefined on input line 685.
+LaTeX Warning: Citation 'vaswani2017attention' on page 48 undefined on input line 691.
 
 
-LaTeX Warning: Citation 'vaswani2017attention' on page 48 undefined on input line 685.
+LaTeX Warning: Citation 'vaswani2017attention' on page 48 undefined on input line 691.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 685--685
+Underfull \hbox (badness 10000) in paragraph at lines 691--691
 []\T1/cmr/m/n/12 Figure 2.8: |Scaled Dot-Product At-ten-tion mech-a-nism. Source:
  []
 
@@ -1252,13 +1252,13 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 <Assets/multi_head_attention.png, id=356, 347.2975pt x 396.48125pt>
 File: Assets/multi_head_attention.png Graphic file (type png)
 <use Assets/multi_head_attention.png>
-Package pdftex.def Info: Assets/multi_head_attention.png  used on input line 691.
+Package pdftex.def Info: Assets/multi_head_attention.png  used on input line 697.
 (pdftex.def)             Requested size: 234.73654pt x 267.98837pt.
 
-LaTeX Warning: Citation 'vaswani2017attention' on page 48 undefined on input line 692.
+LaTeX Warning: Citation 'vaswani2017attention' on page 48 undefined on input line 698.
 
 
-LaTeX Warning: Citation 'vaswani2017attention' on page 48 undefined on input line 692.
+LaTeX Warning: Citation 'vaswani2017attention' on page 48 undefined on input line 698.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
@@ -1266,138 +1266,145 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 <Assets/transformer_architecture.png, id=357, 617.30624pt x 845.1575pt>
 File: Assets/transformer_architecture.png Graphic file (type png)
 <use Assets/transformer_architecture.png>
-Package pdftex.def Info: Assets/transformer_architecture.png  used on input line 698.
+Package pdftex.def Info: Assets/transformer_architecture.png  used on input line 704.
 (pdftex.def)             Requested size: 234.73654pt x 321.38242pt.
 
-LaTeX Warning: Citation 'vaswani2017attention' on page 48 undefined on input line 699.
+LaTeX Warning: Citation 'vaswani2017attention' on page 48 undefined on input line 705.
 
 
-LaTeX Warning: Citation 'vaswani2017attention' on page 48 undefined on input line 699.
+LaTeX Warning: Citation 'vaswani2017attention' on page 48 undefined on input line 705.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
-LaTeX Warning: Citation 'application_llms' on page 48 undefined on input line 711.
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[48]
+ [48]
 
-LaTeX Warning: Citation 'rasnayaka2024' on page 49 undefined on input line 716.
+LaTeX Warning: Citation 'application_llms' on page 49 undefined on input line 717.
 
-[49 <./Assets/scaled_dot_product_attention.png>] [50 <./Assets/multi_head_attention.png>]
-Overfull \hbox (1.41377pt too wide) in paragraph at lines 728--729
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [49 <./Assets/scaled_dot_product_attention.png>]
+
+LaTeX Warning: Citation 'rasnayaka2024' on page 50 undefined on input line 722.
+
+[50 <./Assets/multi_head_attention.png>] [51 <./Assets/transformer_architecture.png>]
+Overfull \hbox (1.41377pt too wide) in paragraph at lines 734--735
 \T1/cmr/m/n/12 Despite their po-ten-tial, LLMs ex-hibit sev-eral lim-i-ta-tions that hin-der their widespread
  []
 
-[51 <./Assets/transformer_architecture.png>]
 
-LaTeX Warning: Citation 'limitations_llms' on page 52 undefined on input line 732.
-
-
-LaTeX Warning: Citation 'lee2024' on page 52 undefined on input line 734.
+LaTeX Warning: Citation 'limitations_llms' on page 52 undefined on input line 738.
 
 
-Overfull \hbox (0.47777pt too wide) in paragraph at lines 736--737
+LaTeX Warning: Citation 'lee2024' on page 52 undefined on input line 740.
+
+
+Overfull \hbox (0.47777pt too wide) in paragraph at lines 742--743
 \T1/cmr/m/n/12 aware tech-niques like SmoothQuant strug-gle to main-tain ac-cu-racy in high-activation-
  []
 
+[52]
 
-Underfull \vbox (badness 1478) has occurred while \output is active []
+LaTeX Warning: Citation 'gu2024' on page 53 undefined on input line 749.
 
- [52]
-
-LaTeX Warning: Citation 'gu2024' on page 53 undefined on input line 743.
-
-
-Overfull \hbox (10.0934pt too wide) in paragraph at lines 749--750
+[53]
+Overfull \hbox (10.0934pt too wide) in paragraph at lines 755--756
 []\T1/cmr/m/n/12 By fo-cus-ing on mode-seeking be-hav-ior and op-ti-miz-ing train-ing dy-nam-ics, MiniLLM
  []
 
-[53] [54] [55]
+[54] [55]
 
-LaTeX Warning: Citation 'janssen2005' on page 56 undefined on input line 774.
-
-
-LaTeX Warning: Citation 'janssen2005' on page 56 undefined on input line 776.
+LaTeX Warning: Citation 'janssen2005' on page 56 undefined on input line 779.
 
 
-LaTeX Warning: Citation 'ginart2024' on page 56 undefined on input line 778.
+LaTeX Warning: Citation 'janssen2005' on page 56 undefined on input line 781.
 
 
-LaTeX Warning: Citation 'janssen2005' on page 56 undefined on input line 782.
+LaTeX Warning: Citation 'ginart2024' on page 56 undefined on input line 783.
+
+
+LaTeX Warning: Citation 'janssen2005' on page 56 undefined on input line 787.
+
+
+LaTeX Warning: Citation 'ginart2024' on page 56 undefined on input line 789.
 
 [56]
 
-LaTeX Warning: Citation 'ginart2024' on page 57 undefined on input line 784.
+LaTeX Warning: Citation 'ginart2024' on page 57 undefined on input line 795.
 
 
-LaTeX Warning: Citation 'ginart2024' on page 57 undefined on input line 790.
-
-
-LaTeX Warning: Citation 'ginart2024' on page 57 undefined on input line 796.
+LaTeX Warning: Citation 'ginart2024' on page 57 undefined on input line 801.
 
 [57]
 
-LaTeX Warning: Citation 'ginart2024' on page 58 undefined on input line 802.
+LaTeX Warning: Citation 'ginart2024' on page 58 undefined on input line 807.
 
-[58]
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [58]
 <Assets/complex_agent.png, id=421, 397.485pt x 543.02875pt>
 File: Assets/complex_agent.png Graphic file (type png)
 <use Assets/complex_agent.png>
-Package pdftex.def Info: Assets/complex_agent.png  used on input line 816.
+Package pdftex.def Info: Assets/complex_agent.png  used on input line 821.
 (pdftex.def)             Requested size: 213.39568pt x 291.54082pt.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
-LaTeX Warning: Citation 'ginart2024' on page 59 undefined on input line 824.
+LaTeX Warning: Citation 'ginart2024' on page 59 undefined on input line 829.
 
 [59]
-Overfull \hbox (4.51979pt too wide) in paragraph at lines 828--828
+Overfull \hbox (4.51979pt too wide) in paragraph at lines 833--833
 \T1/cmr/m/n/12 Agent-based mod-el-ing has been suc-cess-fully ap-plied across var-i-ous dis-ci-plines, demon-
  []
 
-[60 <./Assets/complex_agent.png>]
-Overfull \hbox (2.22467pt too wide) in paragraph at lines 828--828
+
+Overfull \hbox (2.22467pt too wide) in paragraph at lines 833--833
 []\T1/cmr/bx/n/12 Artificial In-tel-li-gence\T1/cmr/m/n/12 : Multi-agent re-in-force-ment learn-ing (MARL) en-abling
  []
 
+[60 <./Assets/complex_agent.png>]
 
-LaTeX Warning: Citation 'ginart2024' on page 61 undefined on input line 830.
+LaTeX Warning: Citation 'ginart2024' on page 61 undefined on input line 835.
 
 
-Overfull \hbox (15.3784pt too wide) in paragraph at lines 830--831
+Overfull \hbox (15.3784pt too wide) in paragraph at lines 835--836
 []\T1/cmr/m/n/12 As ABM con-tin-ues to evolve, in-te-grat-ing asyn-chronous ex-e-cu-tion, real-time decision-
  []
 
 
-LaTeX Warning: Citation 'ginart2024' on page 61 undefined on input line 832.
+LaTeX Warning: Citation 'ginart2024' on page 61 undefined on input line 837.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\cite' on input line 832.
+(hyperref)                removing `\cite' on input line 837.
 
 
-LaTeX Warning: Citation 'ginart2024' on page 61 undefined on input line 834.
+LaTeX Warning: Citation 'ginart2024' on page 61 undefined on input line 839.
 
 <Assets/agent-architecture.png, id=435, 768.8725pt x 338.26375pt>
 File: Assets/agent-architecture.png Graphic file (type png)
 <use Assets/agent-architecture.png>
-Package pdftex.def Info: Assets/agent-architecture.png  used on input line 838.
+Package pdftex.def Info: Assets/agent-architecture.png  used on input line 843.
 (pdftex.def)             Requested size: 341.43437pt x 150.21461pt.
 [61 <./Assets/agent-architecture.png>]
 
-LaTeX Warning: Citation 'chan2025' on page 62 undefined on input line 849.
+LaTeX Warning: Citation 'chan2025' on page 62 undefined on input line 854.
 
 
-./chapters/chap01.tex:862: Package biblatex Error: '\bibliographystyle' invalid for 'biblatex'.
+./chapters/chap01.tex:867: Package biblatex Error: '\bibliographystyle' invalid for 'biblatex'.
 
 See the biblatex package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.862 \bibliographystyle{siam}
+l.867 \bibliographystyle{siam}
                               
 Use the package option 'style' instead.
 I'm ignoring this command.
@@ -1408,41 +1415,41 @@ Chapter 3.
 
 ]
 
-LaTeX Warning: Citation 'bigdatawire2024' on page 64 undefined on input line 881.
+LaTeX Warning: Citation 'bigdatawire2024' on page 64 undefined on input line 886.
 
 [64]
-Overfull \hbox (32.97809pt too wide) in paragraph at lines 883--884
+Overfull \hbox (32.97809pt too wide) in paragraph at lines 888--889
 []\T1/cmr/m/n/12 High-quality data^^Vcharacterized by ac-cu-racy, rel-e-vance, and min-i-mal noise^^Vempowers
  []
 
 <Assets/required_data.png, id=464, 882.29625pt x 322.20375pt>
 File: Assets/required_data.png Graphic file (type png)
 <use Assets/required_data.png>
-Package pdftex.def Info: Assets/required_data.png  used on input line 890.
+Package pdftex.def Info: Assets/required_data.png  used on input line 895.
 (pdftex.def)             Requested size: 405.45047pt x 148.06311pt.
 [65 <./Assets/required_data.png>]
 
-LaTeX Warning: Citation 'privacyos2024' on page 66 undefined on input line 901.
+LaTeX Warning: Citation 'privacyos2024' on page 66 undefined on input line 906.
 
 [66]
 
-LaTeX Warning: Reference `fig:scrapegraph-script' on page 67 undefined on input line 913.
+LaTeX Warning: Reference `fig:scrapegraph-script' on page 67 undefined on input line 918.
 
 <Assets/scrapegraph_integration.png, id=476, 1359.0775pt x 1111.15125pt>
 File: Assets/scrapegraph_integration.png Graphic file (type png)
 <use Assets/scrapegraph_integration.png>
-Package pdftex.def Info: Assets/scrapegraph_integration.png  used on input line 917.
+Package pdftex.def Info: Assets/scrapegraph_integration.png  used on input line 922.
 (pdftex.def)             Requested size: 320.0935pt x 261.69704pt.
 [67 <./Assets/scrapegraph_integration.png>] [68] [69]
 <Assets/smart_scraper.png, id=505, 500.87125pt x 199.74625pt>
 File: Assets/smart_scraper.png Graphic file (type png)
 <use Assets/smart_scraper.png>
-Package pdftex.def Info: Assets/smart_scraper.png  used on input line 976.
+Package pdftex.def Info: Assets/smart_scraper.png  used on input line 981.
 (pdftex.def)             Requested size: 320.0935pt x 127.65733pt.
 <Assets/smart_scraper_lite.png, id=506, 300.12125pt x 190.7125pt>
 File: Assets/smart_scraper_lite.png Graphic file (type png)
 <use Assets/smart_scraper_lite.png>
-Package pdftex.def Info: Assets/smart_scraper_lite.png  used on input line 993.
+Package pdftex.def Info: Assets/smart_scraper_lite.png  used on input line 998.
 (pdftex.def)             Requested size: 213.39568pt x 135.6076pt.
 
 
@@ -1452,7 +1459,7 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 <Assets/search_graph.png, id=516, 675.52374pt x 514.92375pt>
 File: Assets/search_graph.png Graphic file (type png)
 <use Assets/search_graph.png>
-Package pdftex.def Info: Assets/search_graph.png  used on input line 1007.
+Package pdftex.def Info: Assets/search_graph.png  used on input line 1012.
 (pdftex.def)             Requested size: 426.79135pt x 325.33081pt.
 
 
@@ -1461,7 +1468,7 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 <Assets/json_scraper.png, id=517, 489.83pt x 226.8475pt>
 File: Assets/json_scraper.png Graphic file (type png)
 <use Assets/json_scraper.png>
-Package pdftex.def Info: Assets/json_scraper.png  used on input line 1022.
+Package pdftex.def Info: Assets/json_scraper.png  used on input line 1027.
 (pdftex.def)             Requested size: 320.0935pt x 148.24178pt.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
@@ -1469,7 +1476,7 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 <Assets/csv_scraper.png, id=518, 232.87pt x 113.42375pt>
 File: Assets/csv_scraper.png Graphic file (type png)
 <use Assets/csv_scraper.png>
-Package pdftex.def Info: Assets/csv_scraper.png  used on input line 1037.
+Package pdftex.def Info: Assets/csv_scraper.png  used on input line 1042.
 (pdftex.def)             Requested size: 320.0935pt x 155.92436pt.
 [71 <./Assets/smart_scraper_lite.png>]
 
@@ -1480,30 +1487,30 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [72 <./Assets/search_graph.png> <./Assets/json_scraper.png>]
 
-LaTeX Warning: Reference `fig:multi' on page 73 undefined on input line 1045.
+LaTeX Warning: Reference `fig:multi' on page 73 undefined on input line 1050.
 
 <Assets/multi_graph.png, id=536, 710.655pt x 528.97626pt>
 File: Assets/multi_graph.png Graphic file (type png)
 <use Assets/multi_graph.png>
-Package pdftex.def Info: Assets/multi_graph.png  used on input line 1049.
+Package pdftex.def Info: Assets/multi_graph.png  used on input line 1054.
 (pdftex.def)             Requested size: 320.0935pt x 238.2631pt.
 [73 <./Assets/csv_scraper.png> <./Assets/multi_graph.png>] [74]
 <Assets/schema_integration.png, id=552, 1324.95pt x 1339.0025pt>
 File: Assets/schema_integration.png Graphic file (type png)
 <use Assets/schema_integration.png>
-Package pdftex.def Info: Assets/schema_integration.png  used on input line 1074.
+Package pdftex.def Info: Assets/schema_integration.png  used on input line 1079.
 (pdftex.def)             Requested size: 426.79135pt x 431.30911pt.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
-LaTeX Warning: Reference `fig:actually indians' on page 75 undefined on input line 1084.
+LaTeX Warning: Reference `fig:actually indians' on page 75 undefined on input line 1089.
 
 <Assets/code_generator_scripts.png, id=553, 550.055pt x 509.905pt>
 File: Assets/code_generator_scripts.png Graphic file (type png)
 <use Assets/code_generator_scripts.png>
-Package pdftex.def Info: Assets/code_generator_scripts.png  used on input line 1090.
+Package pdftex.def Info: Assets/code_generator_scripts.png  used on input line 1095.
 (pdftex.def)             Requested size: 426.79135pt x 395.65468pt.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
@@ -1515,14 +1522,14 @@ Underfull \vbox (badness 2027) has occurred while \output is active []
 <Assets/generate_script_graph.png, id=559, 438.63875pt x 178.6675pt>
 File: Assets/generate_script_graph.png Graphic file (type png)
 <use Assets/generate_script_graph.png>
-Package pdftex.def Info: Assets/generate_script_graph.png  used on input line 1107.
+Package pdftex.def Info: Assets/generate_script_graph.png  used on input line 1112.
 (pdftex.def)             Requested size: 362.77525pt x 147.77054pt.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
-LaTeX Warning: Reference `fig:code-generator' on page 76 undefined on input line 1113.
+LaTeX Warning: Reference `fig:code-generator' on page 76 undefined on input line 1118.
 
 [76 <./Assets/schema_integration.png>]
 Overfull \vbox (19.84297pt too high) has occurred while \output is active []
@@ -1531,7 +1538,7 @@ Overfull \vbox (19.84297pt too high) has occurred while \output is active []
 <Assets/code_generator.png, id=576, 894.34125pt x 588.1975pt>
 File: Assets/code_generator.png Graphic file (type png)
 <use Assets/code_generator.png>
-Package pdftex.def Info: Assets/code_generator.png  used on input line 1129.
+Package pdftex.def Info: Assets/code_generator.png  used on input line 1134.
 (pdftex.def)             Requested size: 533.48918pt x 350.87488pt.
 
 
@@ -1541,7 +1548,7 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 <Assets/posthog_dashboard.png, id=582, 1648.1575pt x 958.58125pt>
 File: Assets/posthog_dashboard.png Graphic file (type png)
 <use Assets/posthog_dashboard.png>
-Package pdftex.def Info: Assets/posthog_dashboard.png  used on input line 1145.
+Package pdftex.def Info: Assets/posthog_dashboard.png  used on input line 1150.
 (pdftex.def)             Requested size: 405.45047pt x 235.81252pt.
 
 
@@ -1549,31 +1556,31 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 [79 <./Assets/code_generator.png>]
 
-LaTeX Warning: Reference `tab:most-visited-websites' on page 80 undefined on input line 1154.
+LaTeX Warning: Reference `tab:most-visited-websites' on page 80 undefined on input line 1159.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
-LaTeX Warning: Reference `tab:most-visited-websites' on page 80 undefined on input line 1182.
+LaTeX Warning: Reference `tab:most-visited-websites' on page 80 undefined on input line 1187.
 
 
-Overfull \hbox (15.82957pt too wide) in paragraph at lines 1184--1185
+Overfull \hbox (15.82957pt too wide) in paragraph at lines 1189--1190
 []\T1/cmr/bx/n/12 Professional and In-for-ma-tional Plat-forms\T1/cmr/m/n/12 : \T1/cmtt/m/n/12 linkedin.com \T1/cmr/m/n/12 and \T1/cmtt/m/n/12 nytimes.com
  []
 
 
-Overfull \hbox (7.33026pt too wide) in paragraph at lines 1185--1186
+Overfull \hbox (7.33026pt too wide) in paragraph at lines 1190--1191
 []\T1/cmr/bx/n/12 E-Commerce and Re-tail\T1/cmr/m/n/12 : Plat-forms like \T1/cmtt/m/n/12 adidas.se \T1/cmr/m/n/12 and \T1/cmtt/m/n/12 m.stock.naver.com
  []
 
 [80 <./Assets/posthog_dashboard.png>]
-Overfull \hbox (6.95537pt too wide) in paragraph at lines 1187--1188
+Overfull \hbox (6.95537pt too wide) in paragraph at lines 1192--1193
 []\T1/cmr/bx/n/12 Dynamic and Region-Specific Sources\T1/cmr/m/n/12 : \T1/cmtt/m/n/12 profesia.sk \T1/cmr/m/n/12 and \T1/cmtt/m/n/12 derstandard.at
  []
 
 
-LaTeX Warning: Reference `fig:geographic-distribution' on page 81 undefined on input line 1193.
+LaTeX Warning: Reference `fig:geographic-distribution' on page 81 undefined on input line 1198.
 
 
 Underfull \vbox (badness 3701) has occurred while \output is active []
@@ -1582,15 +1589,15 @@ Underfull \vbox (badness 3701) has occurred while \output is active []
 <Assets/countries.jpg, id=604, 1284.8pt x 503.8825pt>
 File: Assets/countries.jpg Graphic file (type jpg)
 <use Assets/countries.jpg>
-Package pdftex.def Info: Assets/countries.jpg  used on input line 1204.
+Package pdftex.def Info: Assets/countries.jpg  used on input line 1209.
 (pdftex.def)             Requested size: 321.19922pt x 125.9703pt.
 <Assets/websites.jpg, id=605, 1193.45876pt x 592.2125pt>
 File: Assets/websites.jpg Graphic file (type jpg)
 <use Assets/websites.jpg>
-Package pdftex.def Info: Assets/websites.jpg  used on input line 1211.
+Package pdftex.def Info: Assets/websites.jpg  used on input line 1216.
 (pdftex.def)             Requested size: 537.05148pt x 266.49315pt.
 
-Overfull \hbox (110.26013pt too wide) in paragraph at lines 1211--1212
+Overfull \hbox (110.26013pt too wide) in paragraph at lines 1216--1217
  [][] 
  []
 
@@ -1598,32 +1605,7 @@ Overfull \hbox (110.26013pt too wide) in paragraph at lines 1211--1212
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 [82 <./Assets/countries.jpg>] [83 <./Assets/websites.jpg>]
-./chapters/chap01.tex:1240: Missing $ inserted.
-<inserted text> 
-                $
-l.1240 ...yboar\%2Caps\%2C114\&ref=nb_sb_noss_2V}}
-                                                  .
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-./chapters/chap01.tex:1240: Missing $ inserted.
-<inserted text> 
-                $
-l.1240 ...yboar\%2Caps\%2C114\&ref=nb_sb_noss_2V}}
-                                                  .
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
-
-Overfull \hbox (678.14313pt too wide) in paragraph at lines 1240--1241
-[]\T1/cmr/m/n/12 For sim-plic-ity, the fol-low-ing link: []\T1/cmr/m/it/12 https://www.amazon.it/s?k=keyboard&__mk_it_IT=%C3%85%C3%85%C5%BD%C3%95%C3%91&crid=2NTE6199MWOQE&sprefix=keyboar%2Caps%2C114&ref=nb$[]\OML/cmm/m/it/12 b[]oss[]V$[]\T1/cmr/m/n/12 . 
- []
-
-
-Overfull \hbox (16.37413pt too wide) in paragraph at lines 1246--1247
+Overfull \hbox (16.37413pt too wide) in paragraph at lines 1251--1252
 \T1/cmr/m/n/12 tory: []$\T1/cmtt/m/n/12 https : / / github . com / ScrapeGraphAI / ScrapegraphLib-[]Examples / blob / main /
  []
 
@@ -1634,10 +1616,10 @@ Underfull \vbox (badness 1748) has occurred while \output is active []
 <Assets/library.png, id=630, 1069.9975pt x 1116.17pt>
 File: Assets/library.png Graphic file (type png)
 <use Assets/library.png>
-Package pdftex.def Info: Assets/library.png  used on input line 1252.
+Package pdftex.def Info: Assets/library.png  used on input line 1257.
 (pdftex.def)             Requested size: 405.45047pt x 422.93979pt.
 
-Overfull \hbox (10.07564pt too wide) in paragraph at lines 1257--1258
+Overfull \hbox (10.07564pt too wide) in paragraph at lines 1262--1263
 []\T1/cmr/m/n/12 This code snip-pet demon-strates how to de-fine the con-fig-u-ra-tion for the SmartScrap-
  []
 
@@ -1645,32 +1627,32 @@ Overfull \hbox (10.07564pt too wide) in paragraph at lines 1257--1258
 <Assets/api.png, id=642, 1135.24126pt x 423.5825pt>
 File: Assets/api.png Graphic file (type png)
 <use Assets/api.png>
-Package pdftex.def Info: Assets/api.png  used on input line 1268.
+Package pdftex.def Info: Assets/api.png  used on input line 1273.
 (pdftex.def)             Requested size: 405.45047pt x 151.28093pt.
  [86 <./Assets/api.png>]
 <Assets/wired.png, id=652, 758.33313pt x 435.12563pt>
 File: Assets/wired.png Graphic file (type png)
 <use Assets/wired.png>
-Package pdftex.def Info: Assets/wired.png  used on input line 1311.
+Package pdftex.def Info: Assets/wired.png  used on input line 1316.
 (pdftex.def)             Requested size: 405.45047pt x 232.64716pt.
  [87]
 
-LaTeX Warning: Reference `fig:res-snippet' on page 88 undefined on input line 1316.
+LaTeX Warning: Reference `fig:res-snippet' on page 88 undefined on input line 1321.
 
 <Assets/result.png, id=661, 2055.68pt x 855.195pt>
 File: Assets/result.png Graphic file (type png)
 <use Assets/result.png>
-Package pdftex.def Info: Assets/result.png  used on input line 1329.
+Package pdftex.def Info: Assets/result.png  used on input line 1334.
 (pdftex.def)             Requested size: 405.45047pt x 168.67406pt.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 [88 <./Assets/wired.png>] [89 <./Assets/result.png>]
 
-LaTeX Warning: Reference `tab:comparison' on page 90 undefined on input line 1348.
+LaTeX Warning: Reference `tab:comparison' on page 90 undefined on input line 1353.
 
 
-Overfull \hbox (0.18213pt too wide) in paragraph at lines 1354--1355
+Overfull \hbox (0.18213pt too wide) in paragraph at lines 1359--1360
 \T1/cmr/m/n/12 both tools ex-hibit in-creased pro-cess-ing times due to the need for han-dling JavaScript-
  []
 
@@ -1678,7 +1660,7 @@ Overfull \hbox (0.18213pt too wide) in paragraph at lines 1354--1355
 <Assets/smart_scraper_wired.png, id=692, 1039.885pt x 1179.40625pt>
 File: Assets/smart_scraper_wired.png Graphic file (type png)
 <use Assets/smart_scraper_wired.png>
-Package pdftex.def Info: Assets/smart_scraper_wired.png  used on input line 1400.
+Package pdftex.def Info: Assets/smart_scraper_wired.png  used on input line 1405.
 (pdftex.def)             Requested size: 405.45047pt x 459.84062pt.
 
 
@@ -1687,7 +1669,7 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 <Assets/beautifousoup.png, id=693, 1823.81375pt x 1465.475pt>
 File: Assets/beautifousoup.png Graphic file (type png)
 <use Assets/beautifousoup.png>
-Package pdftex.def Info: Assets/beautifousoup.png  used on input line 1407.
+Package pdftex.def Info: Assets/beautifousoup.png  used on input line 1412.
 (pdftex.def)             Requested size: 405.45047pt x 325.78206pt.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
@@ -1697,11 +1679,11 @@ Underfull \vbox (badness 1527) has occurred while \output is active []
 
  [93 <./Assets/smart_scraper_wired.png>]
 
-LaTeX Warning: Reference `tab:comparison' on page 94 undefined on input line 1419.
+LaTeX Warning: Reference `tab:comparison' on page 94 undefined on input line 1424.
 
 [94 <./Assets/beautifousoup.png>]
 
-LaTeX Warning: Reference `tab:comparison' on page 95 undefined on input line 1437.
+LaTeX Warning: Reference `tab:comparison' on page 95 undefined on input line 1442.
 
 [95] [96] [97] [98] [99] [100]
 Chapter 4.
@@ -1714,50 +1696,50 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 <Assets/webapp.png, id=755, 1157.32375pt x 745.78625pt>
 File: Assets/webapp.png Graphic file (type png)
 <use Assets/webapp.png>
-Package pdftex.def Info: Assets/webapp.png  used on input line 1555.
+Package pdftex.def Info: Assets/webapp.png  used on input line 1560.
 (pdftex.def)             Requested size: 426.79135pt x 275.02621pt.
 
 
-LaTeX Warning: Citation 'runacap2024' on page 102 undefined on input line 1560.
+LaTeX Warning: Citation 'runacap2024' on page 102 undefined on input line 1565.
 
 <Assets/growing_companies.png, id=756, 1189.44376pt x 681.54625pt>
 File: Assets/growing_companies.png Graphic file (type png)
 <use Assets/growing_companies.png>
-Package pdftex.def Info: Assets/growing_companies.png  used on input line 1564.
+Package pdftex.def Info: Assets/growing_companies.png  used on input line 1569.
 (pdftex.def)             Requested size: 405.45047pt x 232.31543pt.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
-LaTeX Warning: Reference `fig:enter-dashboard-basi' on page 102 undefined on input line 1571.
+LaTeX Warning: Reference `fig:enter-dashboard-basi' on page 102 undefined on input line 1576.
 
 <Assets/dashboard_1.png, id=757, 1515.6625pt x 866.23625pt>
 File: Assets/dashboard_1.png Graphic file (type png)
 <use Assets/dashboard_1.png>
-Package pdftex.def Info: Assets/dashboard_1.png  used on input line 1574.
+Package pdftex.def Info: Assets/dashboard_1.png  used on input line 1579.
 (pdftex.def)             Requested size: 405.45047pt x 231.71921pt.
 [102 <./Assets/webapp.png>]
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
-LaTeX Warning: Reference `fig:enter-dashboard-playground' on page 103 undefined on input line 1579.
+LaTeX Warning: Reference `fig:enter-dashboard-playground' on page 103 undefined on input line 1584.
 
 <Assets/dashboard_2.png, id=766, 1516.66624pt x 866.23625pt>
 File: Assets/dashboard_2.png Graphic file (type png)
 <use Assets/dashboard_2.png>
-Package pdftex.def Info: Assets/dashboard_2.png  used on input line 1582.
+Package pdftex.def Info: Assets/dashboard_2.png  used on input line 1587.
 (pdftex.def)             Requested size: 405.45047pt x 231.56061pt.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
-LaTeX Warning: Reference `fig:enter-dashboard-status' on page 103 undefined on input line 1587.
+LaTeX Warning: Reference `fig:enter-dashboard-status' on page 103 undefined on input line 1592.
 
 <Assets/dashboard_3.png, id=767, 1515.6625pt x 873.2625pt>
 File: Assets/dashboard_3.png Graphic file (type png)
 <use Assets/dashboard_3.png>
-Package pdftex.def Info: Assets/dashboard_3.png  used on input line 1590.
+Package pdftex.def Info: Assets/dashboard_3.png  used on input line 1595.
 (pdftex.def)             Requested size: 405.45047pt x 233.59874pt.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
@@ -1767,10 +1749,10 @@ Underfull \vbox (badness 7064) has occurred while \output is active []
 
  [104 <./Assets/dashboard_1.png> <./Assets/dashboard_2.png>]
 
-LaTeX Warning: Citation 'jiang2023' on page 105 undefined on input line 1600.
+LaTeX Warning: Citation 'jiang2023' on page 105 undefined on input line 1605.
 
 
-LaTeX Warning: Citation 'jiang2023' on page 105 undefined on input line 1602.
+LaTeX Warning: Citation 'jiang2023' on page 105 undefined on input line 1607.
 
 ) [105 <./Assets/dashboard_3.png>]
 
@@ -1860,7 +1842,7 @@ Here is how much of TeX's memory you used:
  1141 hyphenation exceptions out of 8191
  81i,12n,95p,1145b,1801s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx8.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfbx1728.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfbx2488.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfit1200.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfrm1440.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfti1200.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sftt1200.pfb>
-Output written on main.pdf (116 pages, 10377663 bytes).
+Output written on main.pdf (116 pages, 10377428 bytes).
 PDF statistics:
  1025 PDF objects out of 1200 (max. 8388607)
  773 compressed objects within 8 object streams

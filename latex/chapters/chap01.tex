@@ -105,7 +105,7 @@ With the proliferation of automated bots on the web, both benign and malicious, 
 
 A key feature of modern anti-bot services is their reliance on browser fingerprinting. This technique collects a wide array of signals, such as screen resolution, installed fonts, plugins, and hardware configurations, to create a unique "fingerprint" for each browsing session. Advanced fingerprinting methods, like WebGL and Canvas fingerprinting, are employed to detect inconsistencies in bot behavior. These fingerprints are analyzed alongside user interaction data, such as mouse movements and typing patterns, to identify anomalies indicative of bot activity \cite{azad2020}.
 
-Anti-bot services also employ behavioral analysis to detect bots. By observing browsing patterns and interaction metrics, they can distinguish between automated scripts and genuine users. For instance, bots often exhibit rapid, repetitive behavior that deviates from human-like navigation. Once identified, suspicious activity can trigger actions such as CAPTCHA challenges, rate-limiting, or outright blocking of the request \cite{azad2020}.
+Anti-bot services also employ behavioral analysis to detect bots. By observing browsing patterns and interaction metrics, they can distinguish between automated scripts and genuine users. For instance, bots often exhibit rapid, repetitive behavior that deviates from human-like navigation. Once identified, suspicious activity can trigger actions such as CAPTCHA challenges, rate-limiting, Clodufare or outright blocking of the request \cite{azad2020}.
 
 Despite these advancements, the effectiveness of anti-bot policies is not absolute. Research shows that determined attackers can bypass many anti-bot systems by leveraging less common automation tools or emulating legitimate user behavior. For example, scripts that mimic human-like interactions, such as scrolling or mouse movements, can evade detection. Similarly, using less mainstream browsers, such as an AppleScript-automated Safari or an ADB-controlled Chrome on Android, can increase the success rate of bots, bypassing the protections of up to 82\% of targeted websites \cite{azad2020}.
 
@@ -211,6 +211,9 @@ Regular Expression (Regex) is a language construction to match text based on cer
 
 \clearpage
 \section{Presentation of ScrapegraphAI ’s library}
+In this section, we explore the motivation, development, and impact of ScrapegraphAI, a modern web scraping library designed to overcome the limitations of traditional tools. We begin by discussing the intuition behind its creation, highlighting the need for a more modular, efficient, and user-friendly approach to data extraction. We then trace the journey from its first prototype, originally named YOSO-AI, to its public release and subsequent adoption by a growing community of developers.
+
+Furthermore, we examine the real-world impact of ScrapegraphAI, including its daily usage statistics and contributions from the open-source community. The section also delves into the role of open-source collaboration, exploring key community-driven events and projects that have emerged around the library. Finally, we showcase some of the most innovative tools built using ScrapegraphAI, demonstrating its versatility and growing influence in the field of web scraping and data automation.
 \subsection{The intuition}
 Building upon the limitations and challenges of classic libraries like those mentioned earlier, a new vision emerged, one that sought to revolutionize the approach to web scraping. The primary motivation was to address the inefficiencies, rigidity, and steep learning curves often associated with traditional tools. These classic libraries, while powerful, required significant customization and technical expertise, making them inaccessible to many and cumbersome for rapid deployment in dynamic, large-scale scraping tasks.
 
@@ -322,6 +325,7 @@ Moreover, these developers leverage ScrapeGraph’s extensive documentation and 
 \end{figure}
 
 \newpage
+
 
 \section{Thesis structure}
 This thesis is organized into several chapters to provide a structured and comprehensive exploration of the research topic.
@@ -661,7 +665,9 @@ The schematic of the GRU cell is available in figure. ~\ref{fig:GRU_cell}:
 \end{figure}
 
 \clearpage
+
 \section{Introduction to LLMs}
+Large Language Models (LLMs) represent a significant advancement in artificial intelligence, leveraging deep learning techniques to process and generate human-like text. These models, powered primarily by transformer architectures, have revolutionized numerous fields by enabling sophisticated natural language understanding and generation capabilities. Their applications span diverse domains, including content creation, software development, and scientific research. This section explores the core principles behind LLMs, their design cycles, and their impact across industries.
 \subsection{Generative AI Design Cycle}
 The design cycle of Generative AI (GenAI) encompasses several critical stages, each integral to the development and deployment of effective generative models. As outlined in Hadi et al. \cite{hadi2024}, this cycle can be broadly categorized into four phases: problem definition, model selection or development, adaptation and alignment, and deployment and optimization.
 
@@ -768,7 +774,6 @@ This diversity highlights the competitive landscape of LLMs, where providers str
 
 
 
-Abm Agents Expansion
 \section{Introduction to Agents and Agent-Based Modelling (ABM)}
 
 Agent-Based Modelling (ABM) is a computational approach for simulating complex systems composed of interacting autonomous agents. Unlike equation-based models, which assume homogeneity and centralized control, ABM focuses on decentralized interactions where each agent operates based on individual rules, behaviors, and decision-making processes \cite{janssen2005}. This paradigm allows for the study of emergent phenomena, where system-level patterns arise from micro-level interactions.
@@ -1151,7 +1156,7 @@ As the owner of ScrapegraphAI , I rely on PostHog to identify and resolve bugs e
 
 \subsubsection{Most Visited Websites}
 
-Table~\ref{tab:most-visited-websites} presents the top 15 most frequently visited sources as of January 24, 2025. These websites represent a diverse set of industries, ranging from professional networking platforms and e-commerce to news portals and social media. The frequency values indicate the number of times data was extracted from each source using ScrapeGraphAI. This analysis highlights the versatility and widespread applicability of web scraping across various domains.
+Table ~\ref{tab:most-visited-websites} presents the top 15 most frequently visited sources as of January 24, 2025. These websites represent a diverse set of industries, ranging from professional networking platforms and e-commerce to news portals and social media. The frequency values indicate the number of times data was extracted from each source using ScrapeGraphAI. This analysis highlights the versatility and widespread applicability of web scraping across various domains.
 
 \begin{table}[h!]
 \centering
@@ -1179,7 +1184,7 @@ r.jina.ai                    & 7,764              \\ \hline
 \end{table}
 
 \paragraph{Commentary}
-The data in Table~\ref{tab:most-visited-websites} reveals several interesting trends:
+The data in Table ~\ref{tab:most-visited-websites} reveals several interesting trends:
 \begin{itemize}
     \item \textbf{Professional and Informational Platforms}: \texttt{linkedin.com} and \texttt{nytimes.com} rank highly, demonstrating the importance of professional networking and trusted news sources in data scraping.
     \item \textbf{E-Commerce and Retail}: Platforms like \texttt{adidas.se} and \texttt{m.stock.naver.com} emphasize the focus on extracting product information, pricing, and stock updates.
@@ -1202,14 +1207,14 @@ This global distribution highlights the geographical diversity and varying level
 \begin{figure}[h!]
     \centering
     \includegraphics[scale=0.25]{Assets/countries.jpg}
-    \caption{geographic distribution}
+    \caption{Geographic distribution of ScrapegraphAI usage}
     \label{fig:geographic-distribution}
 \end{figure}
 
 \begin{figure}[h!]
     \centering
     \includegraphics[scale=0.45]{Assets/websites.jpg}
-    \caption{Caption}
+    \caption{Most visited websites}
     \label{fig:enter-label}
 \end{figure}
 \section{What makes ScrapegraphAI  cool}
@@ -1237,7 +1242,7 @@ By integrating multiple LLM providers and versions, ScrapegraphAI empowers users
 \section{Step-by-step guide}
 In this section it will be showed a tutorial for scraping with both library and APIs showing an use case of a data extraction of an e-commerce.
 
-For simplicity, the following link: \textit{\href{https://www.amazon.it/s?k=keyboard\&\_\_mk\_it\_IT=\%C3\%85\%C3\%85\%C5\%BD\%C3\%95\%C3\%91\&crid=2NTE6199MWOQE\&sprefix=keyboar\%2Caps\%2C114\&ref=nb_sb_noss_2V}{https://www.amazon.it/s?k=keyboard\&\_\_mk\_it\_IT=\%C3\%85\%C3\%85\%C5\%BD\%C3\%95\%C3\%91\&crid=2NTE6199MWOQE\&sprefix=keyboar\%2Caps\%2C114\&ref=nb_sb_noss_2V}}.
+For simplicity, visit \href{https://www.amazon.it/s?k=keyboard&__mk_it_IT=%C3%85%C3%85%C5%BD%C3%95%C3%91&crid=2NTE6199MWOQE&sprefix=keyboar%2Caps%2C114&ref=nb_sb_noss_2V}{this Amazon search link}.
 
 will be written as \textit{\url{https://www.amazon.it/s?k=keyboard}}.
 
@@ -1425,7 +1430,7 @@ From November 2024, the official API was released. They provide greater efficien
                 & Wired.com & Walmart.com & Ikea.com & nature.com \\ \hline
 ScrapegraphAI APIs   &    20.0 s      &  27.99 s    &  27.56 s & 16.86 s            \\ \hline
 \end{tabular}
-\caption{Inference time API}
+\caption{Average inference time of the API}
 \label{tab:comparison}
 \end{table}
 

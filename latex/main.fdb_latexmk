@@ -1,12 +1,12 @@
 # Fdb version 4
-["biber main"] 1739281957.37452 "main.bcf" "main.bbl" "main" 1739282066.85121 0
+["biber main"] 1739281957.37452 "main.bcf" "main.bbl" "main" 1739359091.32834 0
   "bibliography.bib" 1738933534 371 8155891d5a63f0a3cbdb1f0f48216a27 ""
-  "main.bcf" 1739282066.68932 112339 e1647460a69bc8c35e5a4ed46ad2d670 "pdflatex"
+  "main.bcf" 1739359091.1674 112339 e1647460a69bc8c35e5a4ed46ad2d670 "pdflatex"
   (generated)
   "main.bbl"
   "main.blg"
   (rewritten before read)
-["pdflatex"] 1739282051.07402 "/Users/marcovinciguerra/github/master-thesis-scraping/latex/main.tex" "main.pdf" "main" 1739282066.85151 2
+["pdflatex"] 1739359075.13371 "/Users/marcovinciguerra/github/master-thesis-scraping/latex/main.tex" "main.pdf" "main" 1739359091.32877 2
   "/Users/marcovinciguerra/github/master-thesis-scraping/latex/main.tex" 1739264432.10326 9176 07f2093a5c6f67f437564e0206200d62 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc" 1136849721 2971 def0b6c1f0b107b3b936def894055589 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc" 1136849721 2900 1537cc8184ad1792082cd229ecc269f4 ""
@@ -196,12 +196,12 @@
   "Assets/webapp.png" 1738933536 684163 09e6ea418130ff56cd1a6a3d50737765 ""
   "Assets/websites.jpg" 1738933536 74594 02a98a65ba18c0105ee6bfda2825cb08 ""
   "Assets/wired.png" 1738933536 1123854 9b4e6a62dff2b47b86cdb16c51e71891 ""
-  "chapters/chap01.tex" 1739282035.65661 163570 7e1e3fb8abf04b5561100ecb3eb23bcd ""
-  "main.aux" 1739282066.68227 38161 35e3f62284e4f94cafc6ac457c40f98b "pdflatex"
+  "chapters/chap01.tex" 1739359058.54814 165004 436490c3565ba44f0045f4614d37babc ""
+  "main.aux" 1739359091.16081 38265 1300332df9ec34daa539dda6a7212b77 "pdflatex"
   "main.bbl" 1739281972.4173 466 ee04f40f768daeed26442158e95aba61 "biber main"
-  "main.out" 1739282066.68813 27058 ca6774ecd0e6e002d454768094d1683a "pdflatex"
+  "main.out" 1739359091.16632 27058 ca6774ecd0e6e002d454768094d1683a "pdflatex"
   "main.tex" 1739264432.10326 9176 07f2093a5c6f67f437564e0206200d62 ""
-  "main.toc" 1739282066.69039 12447 d8f468be45292d6a4c244dd83b48d95d "pdflatex"
+  "main.toc" 1739359091.16849 12447 79d954e82f7cfb2717f937175a810220 "pdflatex"
   "unibg.cls" 1738933534 5634 132e51829b15055a4b71c4af484f3e00 ""
   (generated)
   "main.aux"

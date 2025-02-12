@@ -34,7 +34,7 @@
 \contentsline {subsection}{\numberline {1.9.5}The power of the open source community}{23}{subsection.1.9.5}%
 \contentsline {subsection}{\numberline {1.9.6}Open source events}{25}{subsection.1.9.6}%
 \contentsline {subsection}{\numberline {1.9.7}Projects created by the community}{26}{subsection.1.9.7}%
-\contentsline {section}{\numberline {1.10}Thesis structure}{28}{section.1.10}%
+\contentsline {section}{\numberline {1.10}Thesis structure}{29}{section.1.10}%
 \contentsline {chapter}{\numberline {2}Methods and procedures}{31}{chapter.2}%
 \contentsline {section}{\numberline {2.1}Introduction to neural networks}{31}{section.2.1}%
 \contentsline {section}{\numberline {2.2}The perceptron and multilayer perceptron}{33}{section.2.2}%
@@ -53,9 +53,9 @@
 \contentsline {section}{\numberline {2.9}Introduction to LLMs}{47}{section.2.9}%
 \contentsline {subsection}{\numberline {2.9.1}Generative AI Design Cycle}{47}{subsection.2.9.1}%
 \contentsline {subsection}{\numberline {2.9.2}Attention is all you need}{48}{subsection.2.9.2}%
-\contentsline {subsection}{\numberline {2.9.3}Application of LLMs in the World}{48}{subsection.2.9.3}%
-\contentsline {subsubsection}{Integration of LLMs in a software engineering project}{49}{section*.24}%
-\contentsline {subsection}{\numberline {2.9.4}Limitations of LLMs}{51}{subsection.2.9.4}%
+\contentsline {subsection}{\numberline {2.9.3}Application of LLMs in the World}{49}{subsection.2.9.3}%
+\contentsline {subsubsection}{Integration of LLMs in a software engineering project}{50}{section*.24}%
+\contentsline {subsection}{\numberline {2.9.4}Limitations of LLMs}{52}{subsection.2.9.4}%
 \contentsline {subsection}{\numberline {2.9.5}Model distillation}{53}{subsection.2.9.5}%
 \contentsline {subsection}{\numberline {2.9.6}Most famous companies and models}{54}{subsection.2.9.6}%
 \contentsline {section}{\numberline {2.10}Introduction to Agents and Agent-Based Modelling (ABM)}{56}{section.2.10}%
