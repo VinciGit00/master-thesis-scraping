@@ -1,5 +1,7 @@
 \chapter{Introduction}
-The rapid evolution of technology and the increasing reliance on data-driven decision-making have transformed the modern world. In this era, data has become a fundamental resource, comparable to traditional commodities like oil in its value and impact. From powering artificial intelligence systems to enabling real-time analytics, data serves as the backbone of technological advancements across industries.
+The rapid evolution of technology and the growing reliance on data-driven decision-making have transformed the modern world. 
+
+In this era, data has become a fundamental resource, comparable to traditional commodities like oil in its value and impact. From powering artificial intelligence systems to enabling real-time analytics, data serves as the backbone of technological advancements across industries.
 
 As the volume, variety, and velocity of data continue to grow exponentially, new challenges and opportunities emerge. Organizations must not only collect and manage vast amounts of data but also derive meaningful insights from it to stay competitive. This shift has led to the development of sophisticated techniques for data extraction, processing, and utilization, with web scraping playing a critical role in accessing unstructured and semi-structured data from the web.
 
@@ -26,7 +28,7 @@ Another noteworthy category is synthetic datasets, which are generated artificia
 
 Understanding the distinctions between these types of data is critical for selecting the appropriate tools, algorithms, and frameworks for data analysis. For example, while structured data is often handled by SQL-based systems, unstructured data may require NLP libraries or deep learning models. Similarly, the integration of semi-structured and multi-modal data demands advanced preprocessing and feature engineering techniques. As the volume and variety of data continue to grow, the ability to manage diverse data types is becoming increasingly vital in addressing complex real-world challenges.
 \subsection{Data is the new oil}
-The role of data in shaping AI technologies extends beyond mere access; it encompasses the ethical considerations and legal frameworks surrounding data usage. As highlighted in scholarly discussions, "the ability to harness data effectively relies heavily on our understanding of its ethical implications and the legal boundaries that govern its use" \cite{heinonline2024}. This perspective reinforces the notion that, while vast amounts of data can enhance AI capabilities, it is imperative to navigate the complexities of data privacy and consent management. 
+The role of data in shaping AI technologies extends beyond mere access; it encompasses the ethical considerations and legal frameworks surrounding data usage. As highlighted in scholarly discussions, "the ability to harness data effectively relies heavily on our understanding of its ethical implications and the legal boundaries that govern its use" \cite{1}. This perspective reinforces the notion that, while vast amounts of data can enhance AI capabilities, it is imperative to navigate the complexities of data privacy and consent management. 
 
 Organizations must implement comprehensive data governance frameworks that not only address compliance with regulations but also establish ethical guidelines for data usage. By fostering a culture of ethical data practices and compliance with relevant regulations, organizations can better leverage data for AI while maintaining public trust and safeguarding individual rights. The future of AI development will increasingly depend on the integration of ethical considerations into data strategies, ensuring that technological advancements do not come at the expense of fundamental privacy rights. Furthermore, incorporating ethical training for AI practitioners and developers can promote a deeper understanding of the implications of their work, leading to more responsible decision-making in data collection, analysis, and application. Ultimately, balancing innovation with ethical responsibility will be crucial in realizing the full potential of AI technologies in a manner that is both effective and socially accountable.
 
@@ -175,6 +177,7 @@ GridABM & Engineering & Supports grid-based agent interactions \\
 \label{table:abms_comparison}
 \end{table}
 
+
 Despite its numerous applications, ABMS faces several challenges, including computational scalability, model validation, and the difficulty of capturing human-like decision-making processes. As highlighted by Abar et al. (2017), future research in ABMS may focus on developing more efficient algorithms for large-scale simulations, integrating machine learning for adaptive agent behaviors, and improving user-friendly interfaces for non-technical users \cite{3}. Advancements in high-performance computing and cloud-based simulations are also expected to expand the scope and feasibility of ABMS, making it an indispensable tool for understanding complex, adaptive systems in an increasingly data-driven world.
 
 \subsection{Agents in the internet}
@@ -207,13 +210,13 @@ The HTML DOM (Document Object Model) provides a standard object model for intera
 Each of these web scraping methods has its own strengths and weaknesses, and the choice of which to use depends on the specific requirements of the data extraction task. By conducting a comprehensive performance evaluation of these four techniques, this thesis aims to provide researchers and developers with insights that can guide their selection of the most appropriate web scraping approach for their needs.
 The following sections will delve deeper into the technical details of each web scraping method, the experimental setup and methodology used to assess their performance, and the analysis of the results obtained. This investigation will contribute to a better understanding of the trade-offs and considerations involved in effective web data extraction.
 \subsubsection{CSS selectors}
-CSS Selector is a method for finding HTML elements on web pages and extracting data from them~\cite{darmawan2022evaluating}. A CSS Selector is declared as part of a markup style that applies to match the tags and attributes in the markup.
+CSS Selector is a method for finding HTML elements on web pages and extracting data from them~\cite{8}. A CSS Selector is declared as part of a markup style that applies to match the tags and attributes in the markup.
 \subsubsection{XPath}
-XPath (XML Path Language) is a query language to select parts (nodes) of an XML document~\cite{darmawan2022evaluating}. In addition to selecting, XPath can also be used to calculate values such as strings, numbers, and Booleans in an XML and HTML file.
+XPath (XML Path Language) is a query language to select parts (nodes) of an XML document~\cite{8}. In addition to selecting, XPath can also be used to calculate values such as strings, numbers, and Booleans in an XML and HTML file.
 \subsubsection{HTML DOM}
-HTML DOM (Document Object Model) is a standard object model for getting, changing, adding, or removing HTML elements~\cite{darmawan2022evaluating}. The DOM works by defining the objects and properties of all HTML elements, with methods to access them.
+HTML DOM (Document Object Model) is a standard object model for getting, changing, adding, or removing HTML elements~\cite{8}. The DOM works by defining the objects and properties of all HTML elements, with methods to access them.
 \subsubsection{Regex}
-Regular Expression (Regex) is a language construction to match text based on certain patterns, especially for complex cases~\cite{darmawan2022evaluating}. Regex has two kinds of characters, namely regular characters and meta characters. This method is particularly useful for dealing with complex text matching scenarios, as it provides a powerful and flexible way to define patterns for extracting data from web pages.
+Regular Expression (Regex) is a language construction to match text based on certain patterns, especially for complex cases~\cite{8}. Regex has two kinds of characters, namely regular characters and meta characters. This method is particularly useful for dealing with complex text matching scenarios, as it provides a powerful and flexible way to define patterns for extracting data from web pages.
 
 \clearpage
 \section{Presentation of ScrapegraphAI ’s library}
@@ -233,7 +236,8 @@ By integrating modern web technologies, advanced automation techniques, and a fo
 
 From these problems arose the need to create a library in Python to overcome these problems.
 
-With Marco Perini (msc. mechanical engineering) and Lorenzo Padoan (msc. informatics) this project was done.
+The project was done Marco Perini (msc. mechanical engineering) and Lorenzo Padoan (msc. informatics).
+
 \subsection{First prototype}
 
 The original name of the library was YOSO-AI (You Only Scrape Once). The basic idea behind this name was to create a liibrary for coding scripts that continue to function over time in scraping and data extraction pipelines from any document source.
@@ -259,7 +263,7 @@ The corresponding phases of the script are:
 \end{figure}
 
 \subsection{First public release}
-The first pubblic release of ScrapegraphAI  was the version 0.0.1 and it was realead pubblicly on the store pypi on the $17^{th}$ february of 2024. The other two authors and founders of the library are: Marco Perini (Msc mechanical engineering, UniTrento) and Lorenzo Padoan (Msc computer science, Università Ca'​ Foscari Venezia).
+The first public release of ScrapegraphAI  was the version 0.0.1 and it was released publicly on the store pypi on the $17^{th}$ february of 2024. The other two authors and founders of the library are: Marco Perini (Msc mechanical engineering, UniTrento) and Lorenzo Padoan (Msc computer science, Università Ca'​ Foscari Venezia).
 
 Since then the library has started to gain more and more credibility and to be used in scraping pipelines.
 \begin{figure}[h!]
@@ -281,7 +285,7 @@ At the time of writing this thesis (November 2024), the ScrapegraphAI  library h
 \subsection{The power of the open source community}
 The role of communities in open-source software (OSS) development has been instrumental in shaping collaborative innovation and sustainability. Communities not only foster shared expertise but also create environments that encourage participation and growth among developers. David and Shapiro (2008) highlight how community-based peer production in OSS provides a unique paradigm for collaboration, emphasizing that such frameworks enable diverse participants to contribute, driven by a blend of intrinsic and extrinsic motivations. Their analysis underscores the significance of understanding the motivational profiles and behavioral patterns of community members, as these aspects directly influence the sustainability and success of OSS projects \cite{6}.
 
-Furthering this perspective, Tamburri et al. (2019) discuss the importance of systematically analyzing community patterns to ensure organizational and social health in OSS. Their work introduces tools like Yoshi, designed to measure community characteristics such as structure, engagement, and cohesion. These metrics are critical for identifying potential risks, fostering inclusivity, and ensuring that communities remain dynamic and capable of sustaining long-term development. By mapping community patterns, their research provides actionable insights into improving community governance and preventing project stagnation or failure \cite{Tamburri2019}.
+Furthering this perspective, Tamburri et al. (2019) discuss the importance of systematically analyzing community patterns to ensure organizational and social health in OSS. Their work introduces tools like Yoshi, designed to measure community characteristics such as structure, engagement, and cohesion. These metrics are critical for identifying potential risks, fostering inclusivity, and ensuring that communities remain dynamic and capable of sustaining long-term development. By mapping community patterns, their research provides actionable insights into improving community governance and preventing project stagnation or failure \cite{7}.
 
 In sum, the power of the community lies in its ability to integrate diverse expertise, maintain resilience through structured governance, and adapt to the evolving landscape of software development. Both studies collectively reinforce that robust community frameworks are not only beneficial but essential for the ongoing success of OSS ecosystems.
 
@@ -358,14 +362,18 @@ This thesis is organized into several chapters to provide a structured and compr
 
 The structure ensures that readers can easily navigate through the thesis, gaining a clear understanding of the research contributions and their significance.
 
+
+\textbf{Note of the author:} Since the proposed argument of the thesis uses LLMs for leveraging the extraction from websites, this thesis was the enhanced with OpenAI's product ChatGPT. In particular it was used for enhancing the quality of the text, find latest papers and articles and make grammatical corrections. 
+
 \chapter{Methods and procedures}
 The advancement of artificial intelligence (AI) has been largely driven by the development of artificial neural networks (ANNs), which are inspired by the structure and functionality of the human brain. Neural networks have become a cornerstone of modern AI systems, enabling applications such as natural language processing, computer vision, and autonomous decision-making.
 
 This chapter introduces the theoretical foundations and methodologies underlying neural networks, beginning with the concept of the artificial neuron and its historical development. The chapter also explores the evolution of neural network architectures, including the perceptron and multilayer perceptron, which have been pivotal in shaping modern machine learning algorithms.
 
 By providing a detailed discussion of the mathematical principles, computational techniques, and practical implementations of neural networks, this chapter lays the groundwork for understanding their role in solving complex problems in AI. Visual representations and equations are included to facilitate comprehension and to illustrate the inner workings of these models.
+
 \section{Introduction to neural networks}
-The artificial neuron is a mathematical model that was originally proposed in 1943 in \citeauthor{McCulloch1943} \autocite{McCulloch1943}.
+The artificial neuron is a mathematical model that was originally proposed in 1943 in \autocite{22}.
 Starting in the 1980s, efficient and effective variations of the basic model were published, and around the 1990s these types of techniques became more popular due to the high computing power provided by new computers.
 
 Originally, the proposal was a simplification of the biological neuron model, known as the artificial neuron. It is based on one or more binary inputs and a single binary output. The artificial neuron "activates the output" when a certain number of inputs are active. The connection, or edge, between two neurons or between an input and a neuron is called a link. Each link is associated with a Boolean value that can be either 0 or 1. With this infrastructure, neurons can perform operations based on the traditdional logic operators AND, OR or NOT.
@@ -502,7 +510,7 @@ The validation set instead is used for evaluating a given model’s evolving per
 
 \section{Metrics}
 \subsection{Coefficient of determination (R2)}
-The coefficient of determination \autocite{RossStat} is the proportion of the variation of the response variable that can be explained through the independent variables of the model.
+The coefficient of determination \autocite{12} is the proportion of the variation of the response variable that can be explained through the independent variables of the model.
 In order to define it mathematically, it is necessary to introduce a few concepts, like the definition residuals, residual sum of squares and the total sum of squares.
 \\The residuals are the difference between the observed data of the target variable and the respective values predicted by the model. Therefore, the residual sum of squares (Eq. \eqref{ssres}) is the sum of all residuals in which each residual has been squared.
 
@@ -523,7 +531,7 @@ R^{2}=1-\frac{S S_{\mathrm{res}}}{S S_{\mathrm{tot}}}
 \end{equation}
 
 \subsection{Root mean squared error (RMSE)}
-The root mean squared error \autocite{RossStat} is one of the most commonly used metrics for evaluating the quality of predictions. It shows how far predictions fall, relative to observed values, using Euclidean distance. It is a measure of spread out the residuals are, in that it is determined by how concentrated the data is around the line of best fit.
+The root mean squared error \autocite{12} is one of the most commonly used metrics for evaluating the quality of predictions. It shows how far predictions fall, relative to observed values, using Euclidean distance. It is a measure of spread out the residuals are, in that it is determined by how concentrated the data is around the line of best fit.
 \\The root mean square error can be calculated using Eq \eqref{rmse}
 \begin{equation}
 R M S E=\sqrt{\frac{\sum_{i=1}^{N}\|y(i)-\hat{y}(i)\|^{2}}{N}},
@@ -602,7 +610,7 @@ When using an RNN, some information is lost  or forgotten at each step. After a 
 
 It is, however, possible to extend the model in order to add memory beyond 10 steps, which is useful for doing time series forecasting, of both univariate and multivariate in nature.
 
-\subsection{20 cell} \label{20cell}
+\subsection{cell} \label{20cell}
 The Long Short-Term Memory (20) cell was introduced in 1997 in \citeauthor{20} \autocite{20}.
 It offers improved performance and results compared to a other types of cells, such as RNN cells. In fact, 20 neural networks have shorter convergence times and are also able to keep track of medium to long term dependencies in time series data such as trend and seasonality.
 
@@ -655,7 +663,7 @@ The meanings of the terms in the equations are as follows:
 \clearpage
 
 \subsection{Other cells: Dense cells and GRU cells}
-The Gated Recurrent Unit (GRU) cells were first proposed in 2014 by \citeauthor{DBLP:journals/corr/ChoMGBSB14} \autocite{DBLP:journals/corr/ChoMGBSB14}. GRU cells are a simplified version of 20 cells, which seem to work more efficiently. The major simplifications are as follows:
+The Gated Recurrent Unit (GRU) cells were first proposed in 2014 by \autocite{22}. GRU cells are a simplified version of 20 cells, which seem to work more efficiently. The major simplifications are as follows:
 
 \begin{itemize}
     \item The state vectors (long and short term) are combined into a single vector ${\bf h}_{(t)}$.
@@ -675,7 +683,7 @@ The schematic of the GRU cell is available in figure. ~\ref{fig:GRU_cell}:
 \section{Introduction to LLMs}
 Large Language Models (LLMs) represent a significant advancement in artificial intelligence, leveraging deep learning techniques to process and generate human-like text. These models, powered primarily by transformer architectures, have revolutionized numerous fields by enabling sophisticated natural language understanding and generation capabilities. Their applications span diverse domains, including content creation, software development, and scientific research. This section explores the core principles behind LLMs, their design cycles, and their impact across industries.
 \subsection{Generative AI Design Cycle}
-The design cycle of Generative AI (GenAI) encompasses several critical stages, each integral to the development and deployment of effective generative models. As outlined in Hadi et al. \cite{hadi2024}, this cycle can be broadly categorized into four phases: problem definition, model selection or development, adaptation and alignment, and deployment and optimization.
+The design cycle of Generative AI (GenAI) encompasses several critical stages, each integral to the development and deployment of effective generative models. As outlined in Hadi et al. \cite{11}, this cycle can be broadly categorized into four phases: problem definition, model selection or development, adaptation and alignment, and deployment and optimization.
 
 In the initial phase, the problem definition sets the scope of the target application. Developers determine whether the model will perform single or multiple tasks, which directly influences the design and training approach. Following this, the model selection phase involves deciding between using pre-existing models like transformers or training a new model from scratch. Depending on the requirements, developers may employ general techniques such as RNNs or transformers, or refine models through advanced methods like generative adversarial networks or diffusion models.
 
@@ -685,7 +693,7 @@ Finally, in the deployment and optimization phase, the trained model is integrat
 
 By iteratively addressing these stages, the Generative AI design cycle facilitates the creation of robust, adaptable, and application-specific models capable of generating high-quality outputs across various domains.
 \subsection{Attention is all you need}
-The Transformer model introduced a groundbreaking approach to natural language processing (NLP) by eliminating the reliance on recurrence and convolution, as seen in earlier models like recurrent neural networks (RNNs) and convolutional neural networks (CNNs). Instead, Transformers utilize attention mechanisms exclusively, enabling parallel computations and faster training times \cite{vaswani2017attention}.
+The Transformer model introduced a groundbreaking approach to natural language processing (NLP) by eliminating the reliance on recurrence and convolution, as seen in earlier models like recurrent neural networks (RNNs) and convolutional neural networks (CNNs). Instead, Transformers utilize attention mechanisms exclusively, enabling parallel computations and faster training times \cite{11}.
 
 At the heart of the Transformer lies the \textit{Scaled Dot-Product Attention}, as shown in Figure~\ref{fig:scaled_attention}. This mechanism computes the attention scores by combining query (Q), key (K), and value (V) vectors. The scores are scaled to mitigate large gradients, normalized using a softmax function, and optionally masked for sequential tasks. Building on this, the \textit{Multi-Head Attention} mechanism, depicted in Figure~\ref{fig:multi_head_attention}, enhances the model's ability to capture diverse relationships within the input by projecting Q, K, and V into multiple subspaces and concatenating the results.
 
@@ -694,14 +702,14 @@ The overall architecture of the Transformer, illustrated in Figure~\ref{fig:tran
 \begin{figure}[h!]
     \centering
     \includegraphics[width=0.55\textwidth]{Assets/scaled_dot_product_attention.png}
-    \caption{Scaled Dot-Product Attention mechanism. Source: \cite{vaswani2017attention}}
+    \caption{Scaled Dot-Product Attention mechanism. Source: \cite{11}}
     \label{fig:scaled_attention}
 \end{figure}
 
 \begin{figure}[h!]
     \centering
     \includegraphics[width=0.55\textwidth]{Assets/multi_head_attention.png}
-    \caption{Multi-Head Attention mechanism. Source: \cite{vaswani2017attention}}
+    \caption{Multi-Head Attention mechanism. Source: \cite{11}}
     \label{fig:multi_head_attention}
 \end{figure}
 
@@ -720,7 +728,7 @@ Their applications include enhancing accessibility in education, where they assi
 
 Additionally, they improve customer service by powering conversational agents capable of human-like interactions and accelerating drug discovery by enabling advanced analysis of biomedical data. 
 
-Their ability to process, analyze, and generate coherent language makes them invaluable for automating tasks such as summarization, translation, and question-answering~\cite{application_llms}.
+Their ability to process, analyze, and generate coherent language makes them invaluable for automating tasks such as summarization, translation, and question-answering~\cite{12}.
 
 \subsubsection{Integration of LLMs in a software engineering project}
 Large Language Models (LLMs) have become pivotal tools in software engineering, extending their utility beyond natural language understanding to include code generation, debugging, and automated documentation. Their integration into software engineering projects offers opportunities for streamlining development workflows, improving productivity, and enhancing code quality.
@@ -741,7 +749,7 @@ Despite their potential, LLMs exhibit several limitations that hinder their wide
 
 Furthermore, LLMs are susceptible to biases present in the training data, often resulting in outputs that reinforce stereotypes or inaccuracies. 
 
-They also lack real-world understanding, leading to challenges such as generating misleading or factually incorrect responses. Addressing these issues is vital to ensuring that LLMs become more reliable, equitable, and sustainable for future applications~\cite{limitations_llms}.
+They also lack real-world understanding, leading to challenges such as generating misleading or factually incorrect responses. Addressing these issues is vital to ensuring that LLMs become more reliable, equitable, and sustainable for future applications~\cite{12}.
 
 Model quantization is a critical technique for reducing the memory footprint and computational cost of large language models (LLMs), enabling their deployment in resource-constrained environments. The study by Lee et al. (2024) evaluates various quantization methods—including GPTQ, AWQ, SmoothQuant, and FP8—on instruction-tuned LLMs ranging from 7B to 405B parameters \cite{lee2024}. Their findings highlight key trade-offs between model size, bit-width, and quantization strategy in preserving model performance across six task types: commonsense reasoning, language understanding, instruction following, hallucination detection, mathematics, and dialogue.
 
@@ -915,6 +923,14 @@ To unlock the value of private documents for AI development, a balanced approach
 \newpage
 
 \section{Structure of the library}
+ScrapegraphAI is designed to offer a modular and highly adaptable framework for web scraping and data extraction. The primary objective of this library is to minimize the amount of code modification required to build and execute a functional scraping pipeline. This design choice significantly reduces the complexity for developers, allowing them to focus on defining the logic of extraction rather than handling low-level web scraping mechanisms.
+
+The core strength of ScrapegraphAI lies in its ability to abstract away intricate web scraping tasks while maintaining high configurability. Users do not need to possess in-depth knowledge of HTML or CSS selectors, as the library leverages advanced processing nodes to extract structured information efficiently. 
+
+Moreover, ScrapegraphAI is engineered to integrate seamlessly with various data formats and sources, making it a powerful tool for handling dynamic web content. Its graph-based workflow allows users to define flexible and reusable extraction pipelines, which can be easily extended to accommodate new requirements. 
+
+In the following sections, we will delve into the structural components of the library, exploring the key nodes that drive its functionality and the principal graphs that enable complex scraping workflows.
+
 \subsection{Basic integration}
 
 From the beginning the idea was to have a modular framework that enables to change least number of lines of code for having a working script. 
@@ -937,40 +953,29 @@ In the context of the ScrapegraphAI  library, a node represents a fundamental un
 These tasks range broadly from retrieving data from the internet to formulating responses through the integration of large language models (LLMs). It is important to note, however, that not all modules leverage generative AI; some perform other specialized operations to support the broader system functionalities. This architectural choice promotes scalability, adaptability, and ease of maintenance within the ScrapegraphAI  framework.
 \subsection{Principal nodes}
 This chapter will discuss the principal nodes of the library. 
-\subsubsection{Fetch\_node}
-It's the node in charge for loading the documents to the state's dictionary.
+The nodes are:
+\begin{itemize}
+    \item \textbf{Fetch\_node}: It's the node in charge for loading the documents to the state's dictionary.
 
 It can fetch informations for whatever whitch documetn avaiable, example of formats are: JSON, XML, CSV, MD, HTML and PDF.
 
 Regarding the download of the informations from the internet it uses a ChromiumLoader istance. It could be headless or not.
 
 It is possible  also to fetch the code with external headless providers like Browserbase and Scrape.do.
-
-\subsubsection{Fetch\_node\_level\_k}
-Fetch\_node\_level\_k is a node responsible for fetching the HTML content of a specified URL and all its sub-links recursively up to a certain level of hyperlink depth. This content is then used to update the graph's state. It uses ChromiumLoader to fetch the content from a web page asynchronously (with proxy protection).
-
-\subsubsection{Parse\_node}
-It parses the HTML code to markdown because the LLM can understand better the context rather than the first one.
-
-\subsubsection{Search\_internet\_node}
-It allows to make searches in the internet for finding links given a query as input..
-
-\subsubsection{Generate\_answer\_node}
-This is the key node of the library. It uses an LLM for generating answers given a prompt, the parsed text of the website and an optional output schema.
+    \item \textbf{Fetch\_node\_level\_k}: Fetch\_node\_level\_k is a node responsible for fetching the HTML content of a specified URL and all its sub-links recursively up to a certain level of hyperlink depth. This content is then used to update the graph's state. It uses ChromiumLoader to fetch the content from a web page asynchronously (with proxy protection).
+    \item \textbf{Parse\_node}: It parses the HTML code to markdown because the LLM can understand better the context rather than the first one.
+    \item \textbf{Search\_internet\_node}: It allows to make searches in the internet for finding links given a query as input.
+    \item \textbf{Generate\_answer\_node}: This is the key node of the library. It uses an LLM for generating answers given a prompt, the parsed text of the website and an optional output schema.
 
 There are many variants of this node depending on the type of graph you want to use.
+    \item \textbf{Generate\_answer\_node\_k\_level}: Generate\_answer\_node\_k\_level is a node responsible for compressing the input tokens and storing the document in a vector database for retrieval. Relevant chunks are stored in the state. It allows scraping of big documents without exceeding the token limit of the language model.
+    \item \textbf{Html\_analyzer\_node}: The Html\_analyzer\_node module analyzes HTML code based on the desired information to be extracted and returns a reduced version of the HTML content. The output of this node is primarily intended to enhance the reasoning capabilities of the GenerateCodeNode, enabling it to generate more accurate and context-aware code.
 
-\subsubsection{Generate\_answer\_node\_k\_level}
-Generate\_answer\_node\_k\_level is a node responsible for compressing the input tokens and storing the document in a vector database for retrieval. Relevant chunks are stored in the state. It allows scraping of big documents without exceeding the token limit of the language model.
+    \item \textbf{Conditional\_node}: It represent an if-else condition in the generation of the graphs. It is used when a condition in the state could be respected or not.
 
-\subsubsection{Html\_analyzer\_node}
-The Html\_analyzer\_node module analyzes HTML code based on the desired information to be extracted and returns a reduced version of the HTML content. The output of this node is primarily intended to enhance the reasoning capabilities of the GenerateCodeNode, enabling it to generate more accurate and context-aware code.
+    \item \textbf{Description\_node}: Description\_node is a node responsible for compressing the input tokens and storing the document in a vector database for retrieval. Relevant chunks are stored in the state. It allows scraping of big documents without exceeding the token limit of the language model.
 
-\subsubsection{Conditional\_node}
-It represent an if-else condition in the generation of the graphs. It is used when a condition in the state could be respected or not.
-
-\subsubsection{Description\_node}
-Description\_node is a node responsible for compressing the input tokens and storing the document in a vector database for retrieval. Relevant chunks are stored in the state. It allows scraping of big documents without exceeding the token limit of the language model.
+\end{itemize}
 
 \subsection{Principal graphs}
 
@@ -1223,7 +1228,10 @@ This global distribution highlights the geographical diversity and varying level
     \caption{Most visited websites}
     \label{fig:enter-label}
 \end{figure}
+
 \section{What makes ScrapegraphAI  cool}
+ScrapegraphAI stands out as a cutting-edge solution for AI-driven web scraping and data extraction. Its ability to integrate multiple large language models (LLMs) makes it exceptionally versatile, allowing users to optimize for performance, cost, and reliability. This adaptability ensures that ScrapegraphAI remains at the forefront of technological advancements, providing seamless and efficient data processing capabilities.
+
 \subsection{Available LLM Models}
 
 ScrapegraphAI is fully compatible with all the principal LLM models available on the market. The most well-known providers include OpenAI, Mistral, Gemini, Meta (LLaMA), and Groq. Ensuring compatibility with multiple models is crucial for maximizing flexibility, performance, and adaptability in various scraping and data extraction scenarios.
@@ -1245,6 +1253,8 @@ The rapid evolution of large language models (LLMs) has led to continuous improv
 LLM technology is evolving at an unprecedented pace, with new models frequently released and older ones being deprecated. Maintaining support for all available versions ensures that ScrapegraphAI remains compatible with cutting-edge advancements while providing users with the flexibility to transition seamlessly between models without disrupting their workflows.
 
 By integrating multiple LLM providers and versions, ScrapegraphAI empowers users with unparalleled flexibility, reliability, and efficiency, making it a robust solution for AI-driven web scraping and data extraction.
+
+
 \section{Step-by-step guide}
 In this section it will be showed a tutorial for scraping with both library and APIs showing an use case of a data extraction of an e-commerce.
 
@@ -1366,7 +1376,7 @@ For websites with complex or dynamic content, such as Ikea.com and Nature.com, b
 
 Ultimately, the choice between BeautifulSoup and ScrapeGraphAI depends on the specific requirements of the task. While BeautifulSoup excels in speed for simpler tasks, ScrapeGraphAI's flexibility and automation make it the superior choice for projects requiring scalability, adaptability, and rapid development.
 \section{Benchmark Evaluation}
-
+Benchmarking ScrapeGraphAI against traditional scraping methods highlights its advantages in accuracy, efficiency, and adaptability. The evaluation focuses on key performance metrics, including data extraction accuracy, processing speed, and robustness to website structure changes
 \subsection{Accuracy}
 
 For both methods, the results were accurate. Each method was tested over 100 runs, and the reported times represent the average. The repository used for these tests is available at: \url{https://github.com/VinciGit00/master-thesis-scraping/code}.
@@ -1374,6 +1384,7 @@ For both methods, the results were accurate. Each method was tested over 100 run
 To evaluate the accuracy of both methods, tests were conducted over 100 runs for each website. The extracted data was compared against manually verified ground truth data to ensure completeness and correctness. Both ScrapeGraphAI and BeautifulSoup produced highly accurate results, with no significant discrepancies observed.
 
 BeautifulSoup's accuracy depends heavily on the quality of manually crafted selectors or XPath expressions, making it prone to errors if website structures are updated. Conversely, ScrapeGraphAI leverages large language models (LLMs) to adapt to such changes dynamically, maintaining accuracy even in the face of structural variations.
+
 
 
 \section{Scripts}
